@@ -1,0 +1,6976 @@
+<data>
+	<characters>
+		
+		<!-- KING HENRY II -->
+		<cast id="kingHenryII">
+			<name>King Henry II</name>
+			<episode id="1">
+				<description>Born c. 1133, died c. 1189</description>
+				<photo>img/cast/male_plan_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>1</row>
+				<column>24</column>
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="2">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="3">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="4">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="5">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="6">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="7">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="8">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="9">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="10">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="11">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+		</cast>
+		
+		<!-- Henry theYoung King -->
+		<cast id="henryYoungKing">
+			<name>Henry the Young King</name>
+			<episode id="1">
+				<description>Born c. 1155, died c. 1183</description>
+				<photo>img/cast/male_plan_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>3</row>
+				<column>22</column>
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="2">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="3">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="4">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="5">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="6">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="7">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="8">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="9">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="10">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="11">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+		</cast>
+        
+        <!-- King Richard the Lionheart -->
+		<cast id="richardLionheart">
+			<name>King Richard the Lionheart</name>
+			<episode id="1">
+				<description>Born c. 1157, died c. 1199</description>
+				<photo>img/cast/male_plan_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>3</row>
+				<column>24</column>
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="2">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="3">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="4">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="5">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="6">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="7">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="8">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="9">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="10">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="11">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+		</cast>
+		
+		<!-- King John -->
+		<cast id="kingJohn">
+			<name>King John</name>
+			<episode id="1">
+				<description>Born c. 1167, died c. 1216</description>
+				<photo>img/cast/male_plan_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>3</row>
+				<column>26</column>
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="2">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="3">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="4">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="5">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="6">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="7">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="8">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="9">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="10">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="11">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+		</cast>
+		
+		<!-- King Henry III -->
+		<cast id="kingHenryIII">
+			<name>King Henry III</name>
+			<episode id="1">
+				<description>Born c. 1207, died c. 1272</description>
+				<photo>img/cast/male_plan_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>5</row>
+				<column>26</column>
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="2">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="3">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="4">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="5">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="6">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="7">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="8">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="9">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="10">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="11">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+		</cast>
+		
+		<!-- King Edward I -->
+		<cast id="kingEdwardI">
+			<name>King Edward I</name>
+			<episode id="1">
+				<description>Born c. 1239, died c. 1307</description>
+				<photo>img/cast/male_plan_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>7</row>
+				<column>26</column>
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="2">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="3">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="4">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="5">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="6">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="7">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="8">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="9">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="10">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="11">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+		</cast>
+                	
+       	<!-- King Edward II -->
+		<cast id="kingEdwardII">
+			<name>King Edward II</name>
+			<episode id="1">
+				<description>Born c. 1284, died c. 1327</description>
+				<photo>img/cast/male_plan_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>9</row>
+				<column>26</column>
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="2">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="3">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="4">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="5">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="6">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="7">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="8">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="9">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="10">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="11">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+		</cast>
+
+		<!-- King Edward III -->
+		<cast id="kingEdwardIII">
+			<name>King Edward III</name>
+			<episode id="1">
+				<description>Born c. 1312, died c. 1377</description>
+				<photo>img/cast/male_plan_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>11</row>
+				<column>26</column>
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="2">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="3">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="4">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="5">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="6">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="7">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="8">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="9">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="10">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="11">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+		</cast>
+		
+		<!-- Edward the Black Prince -->
+		<cast id="edwardBlackPrince">
+			<name>Edward the Black Prince</name>
+			<episode id="1">
+				<description>Born c. 1330, died c. 1376</description>
+				<photo>img/cast/male_plan_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>13</row>
+				<column>4</column>
+			</episode>
+		</cast>
+                	
+        <!-- Blanche of Lancaster -->
+		<cast id="blancheLancaster">
+			<name>Blanche of Lancaster</name>
+			<episode id="1">
+				<description>Born c. 1345, died c. 1368</description>
+				<photo>img/cast/female_lanc_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>13</row>
+				<column>6</column>
+			</episode>
+		</cast>
+		 	
+        <!-- John of Gaunt -->
+		<cast id="johnGaunt">
+			<name>John of Gaunt</name>
+			<episode id="1">
+				<description>Born c. 1340, died c. 1399</description>
+				<photo>img/cast/male_lanc_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>13</row>
+				<column>11</column>
+			</episode>
+		</cast> 
+                	
+        <!-- Kaherine Swynford -->
+		<cast id="kaherineSwynford">
+			<name>Kaherine Swynford</name>
+			<episode id="1">
+				<description>Born c. 1350, died c. 1403</description>
+				<photo>img/cast/female_lanc_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>13</row>
+				<column>16</column>
+			</episode>
+		</cast>
+                	
+        <!-- Edmund Duke of York -->
+		<cast id="edmundYork">
+			<name>Edmund Duke of York</name>
+			<episode id="1">
+				<description>Born c. 1341, died c. 1402</description>
+				<photo>img/cast/male_york_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>13</row>
+				<column>35</column>
+			</episode>
+		</cast>
+		
+		<!-- Isabella of Castille -->
+		<cast id="isabellaCastille">
+			<name>Isabella of Castille</name>
+			<episode id="1">
+				<description>Born c. 1355, died c. 1392</description>
+				<photo>img/cast/female_york_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>13</row>
+				<column>37</column>
+			</episode>
+		</cast>
+                	
+       <!-- Lionel Duke of Clarence -->
+		<cast id="lionelDukeOfClarence">
+			<name>Lionel Duke of Clarence</name>
+			<episode id="1">
+				<description>Born c. 1338, died c. 1368</description>
+				<photo>img/cast/male_plan_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>13</row>
+				<column>41</column>
+			</episode>
+		</cast>
+		
+		<!-- King Richard II -->
+		<cast id="kingRichardII">
+			<name>King Richard II</name>
+			<episode id="1">
+				<description>Born c. 1367, died c. 1400</description>
+				<photo>img/cast/male_plan_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>15</row>
+				<column>4</column>
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/kingDeposed</trophy>
+						<title>Deposed King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="2">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/kingDeposed</trophy>
+						<title>Deposed King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="3">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/kingDeposed</trophy>
+						<title>Deposed King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="4">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/kingDeposed</trophy>
+						<title>Deposed King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="5">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/kingDeposed</trophy>
+						<title>Deposed King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="6">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/kingDeposed</trophy>
+						<title>Deposed King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="7">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/kingDeposed</trophy>
+						<title>Deposed King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="8">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/kingDeposed</trophy>
+						<title>Deposed King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="9">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/kingDeposed</trophy>
+						<title>Deposed King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="10">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/kingDeposed</trophy>
+						<title>Deposed King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="11">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/kingDeposed</trophy>
+						<title>Deposed King</title>
+					</icon>
+				</icons>
+			</episode>
+		</cast>
+                	
+        <!-- King Henry IV -->
+		<cast id="kingHenryIV">
+			<name>King Henry IV</name>
+			<episode id="1">
+				<description>Born c. 1367, died c. 1413</description>
+				<photo>img/cast/male_lanc_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>15</row>
+				<column>7</column>
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="2">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="3">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="4">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="5">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="6">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="7">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="8">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="9">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="10">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="11">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+		</cast>
+                	
+        <!-- John Beaufort -->
+		<cast id="johnBeaufort">
+			<name>John Beaufort</name>
+			<episode id="1">
+				<description>Born c. 1373, died c. 1410</description>
+				<photo>img/cast/male_lanc_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>15</row>
+				<column>14</column>
+			</episode>
+		</cast>
+                	
+        <!-- Joan Beaufort -->
+		<cast id="joanBeaufort">
+			<name>Joan Beaufort</name>
+			<episode id="1">
+				<description>Born c. 1379, died c. 1440</description>
+				<photo>img/cast/female_lanc_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>15</row>
+				<column>46</column>
+			</episode>
+		</cast>
+		
+		<!-- Roger Mortimer, 1st Earl -->
+		<cast id="rogerMortimer1">
+			<name>Roger Mortimer, 1st Earl of March</name>
+			<episode id="1">
+				<description>Born c. 1287, died c. 1330</description>
+				<photo>img/cast/male_plan_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>17</row>
+				<column>33</column>
+			</episode>
+		</cast>
+		
+		<!--Thomas Beauchamp -->
+		<cast id="thomasBeauchamp">
+			<name>Thomas Beauchamp</name>
+			<episode id="1">
+				<description>Born c. 1313, died c. 1369</description>
+				<photo>img/cast/male_plan_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>19</row>
+				<column>21</column>
+			</episode>
+		</cast>
+                	
+       <!-- Katherine Mortimer -->
+		<cast id="katherineMortimer">
+			<name>Katherine Mortimer</name>
+			<episode id="1">
+				<description>Born c. 1314, died c. 1369</description>
+				<photo>img/cast/female_plan_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>19</row>
+				<column>23</column>
+			</episode>
+		</cast>
+		
+		<!--Edmund Mortimer -->
+		<cast id="edmundMortimer">
+			<name>Edmund Mortimer</name>
+			<episode id="1">
+				<description>Born c. 1306, died c. 1331</description>
+				<photo>img/cast/male_plan_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>19</row>
+				<column>39</column>
+			</episode>
+		</cast>
+		
+		<!-- Roger Mortimer, 2nd Earl -->
+		<cast id="rogerMortimer2">
+			<name>Roger Mortimer, 2nd Earl of March</name>
+			<episode id="1">
+				<description>Born c. 1328, died c. 1360</description>
+				<photo>img/cast/male_plan_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>21</row>
+				<column>39</column>
+			</episode>
+		</cast>
+		
+		<!-- Hugh Stafford -->
+		<cast id="hughStafford">
+			<name>Hugh Stafford</name>
+			<episode id="1">
+				<description>Born c. 1336, died c. 1386</description>
+				<photo>img/cast/male_plan_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>22</row>
+				<column>20</column>
+			</episode>
+		</cast>
+                	
+		<!-- Philippa Beauchamp -->
+		<cast id="philippaBeauchamp">
+			<name>Philippa Beauchamp</name>
+			<episode id="1">
+				<description>Born c. 1344, died c. 1386</description>
+				<photo>img/cast/female_plan_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>22</row>
+				<column>22</column>
+			</episode>
+		</cast>
+		
+		<!--Edmund Mortimer, 3rd Earl -->
+		<cast id="edmundMortimer2">
+			<name>Edmund Mortimer, 3rd Earl of March</name>
+			<episode id="1">
+				<description>Born c. 1352, died c. 1381</description>
+				<photo>img/cast/male_plan_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>23</row>
+				<column>39</column>
+			</episode>
+		</cast>
+		
+		<!-- Philippa of Clarence -->
+		<cast id="philippaClarence">
+			<name>Philippa of Clarence</name>
+			<episode id="1">
+				<description>Born c. 1355, died c. 1382</description>
+				<photo>img/cast/female_plan_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>23</row>
+				<column>41</column>
+			</episode>
+		</cast>
+		
+		<!-- Edmund Stafford -->
+		<cast id="edmundStafford">
+			<name>Edmund Stafford</name>
+			<episode id="1">
+				<description>Born c. 1378, died c. 1403</description>
+				<photo>img/cast/male_plan_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>25</row>
+				<column>21</column>
+			</episode>
+		</cast>
+		
+		<!-- Roger Mortimer, 4th Earl -->
+		<cast id="rogerMortimer3">
+			<name>Roger Mortimer, 4th Earl of March</name>
+			<episode id="1">
+				<description>Born c. 1374, died c. 1398</description>e
+				<photo>img/cast/male_plan_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>25</row>
+				<column>38</column>
+			</episode>
+		</cast>
+		
+		<!-- Elizabeth Mortimer -->
+		<cast id="elizabethMortimer">
+			<name>Elizabeth Mortimer</name>
+			<episode id="1">
+				<description>Born c. 1371, died c. 1417</description>
+				<photo>img/cast/female_plan_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>25</row>
+				<column>41</column>
+			</episode>
+		</cast>
+                	
+        <!-- Sir Harry Hotspur -->
+		<cast id="harryHotspur">
+			<name>Sir Harry Hotspur</name>
+			<episode id="1">
+				<description>Born c. 1364, died c. 1403</description>
+				<photo>img/cast/male_plan_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>25</row>
+				<column>43</column>
+			</episode>
+		</cast>
+		
+		<!-- John Beaufort 2 -->
+		<cast id="johnBeaufort2">
+			<name>John Beaufort</name>
+			<episode id="1">
+				<description>Born c. 1373, died c. 1410</description>
+				<photo>img/cast/male_lanc_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>26</row>
+				<column>14</column>
+			</episode>
+		</cast>
+                	
+        <!-- Lady Beauchamp -->
+		<cast id="ladyBeauchamp">
+			<name>Lady Beauchamp</name>
+			<episode id="1">
+				<description>Born c. 1408</description>
+				<photo>img/cast/ep1/ladyBeauchamp_ep1.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>26</row>
+				<column>16</column>
+			</episode>
+			<episode id="7" type="photo">
+				<photo>img/cast/ep7/ladyBeauchamp_ep7.png</photo>
+				<dead>true</dead>
+			</episode>
+		</cast>
+		
+        <!-- Lionel de Welles -->
+		<cast id="lionelWelles">
+			<name>Lionel de Welles</name>
+			<episode id="1">
+				<description>Born c. 1406, died c. 1461</description>
+				<photo>img/cast/male_lanc_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>26</row>
+				<column>18</column>
+			</episode>
+		</cast>
+		
+		<!-- Richard Earl of Cambridge -->
+		<cast id="richardEarlCambridge">
+			<name>Richard, Earl of Cambridge</name>
+			<episode id="1">
+				<description>Born c. 1385, died c. 1415</description>
+				<photo>img/cast/male_york_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>27</row>
+				<column>36</column>
+			</episode>
+		</cast>
+                	
+        <!-- Anne Mortimer -->
+		<cast id="anneMortimer">
+			<name>Anne Mortimer</name>
+			<episode id="1">
+				<description>Born c. 1390, died c. 1411</description>
+				<photo>img/cast/female_york_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>27</row>
+				<column>38</column>
+			</episode>
+		</cast>
+		
+		<!-- King Henry V -->
+		<cast id="kingHenryV">
+			<name>King Henry V</name>
+			<episode id="1">
+				<description>Born c. 1387, died c. 1422</description>
+				<photo>img/cast/male_lanc_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>28</row>
+				<column>7</column>
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="2">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="3">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="4">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="5">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="6">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="7">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="8">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="9">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="10">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="11">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+		</cast>
+                	
+		<!-- Catherine of Valois -->
+		<cast id="catherineValois">
+			<name>Catherine of Valois</name>
+			<episode id="1">
+				<description>Born c. 1401, died c. 1437</description>
+				<photo>img/cast/female_lanc_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>28</row>
+				<column>10</column>
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queen</trophy>
+						<title>Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="2">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queen</trophy>
+						<title>Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="3">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queen</trophy>
+						<title>Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="4">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queen</trophy>
+						<title>Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="5">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queen</trophy>
+						<title>Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="6">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queen</trophy>
+						<title>Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="7">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queen</trophy>
+						<title>Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="8">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queen</trophy>
+						<title>Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="9">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queen</trophy>
+						<title>Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="10">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queen</trophy>
+						<title>Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="11">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queen</trophy>
+						<title>Queen</title>
+					</icon>
+				</icons>
+			</episode>
+		</cast>
+        	
+		<!-- Owen Tudor -->
+		<cast id="owenTudor">
+			<name>Owen Tudor</name>
+			<episode id="1">
+				<description>Born c. 1400, died c. 1461</description>
+				<photo>img/cast/male_lanc_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>28</row>
+				<column>13</column>
+			</episode>
+		</cast>
+		
+		<!-- Humphrey Stafford -->
+		<cast id="humphreyStafford">
+			<name>Humphrey Stafford</name>
+			<episode id="1">
+				<description>Born c. 1402, died c. 1460</description>
+				<photo>img/cast/male_plan_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>29</row>
+				<column>21</column>
+			</episode>
+		</cast>
+                	
+		<!-- Baron Rivers -->
+		<cast id="baronRivers">
+			<name>Baron Rivers</name>
+			<episode id="1">
+				<description>Born c. 1405</description>
+				<photo>img/cast/ep1/baronRivers_ep1.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>29</row>
+				<column>28</column>
+				<background>
+					<bullet>Named Baron Rivers by Henry VI</bullet>
+					<bullet>Served under John of Bedford, then married his widow, Jacquetta of Luxemburg</bullet>
+					<bullet>Was a renowned jouster</bullet>
+					<!--<bullet>Imprisoned with his son John and executed at Kenilworth</bullet>-->
+				</background>
+			</episode>
+			<episode id="2">
+				<photo>img/cast/ep2/baronRivers_ep2.png</photo>
+				<highlight>img/cast/halo_york.png</highlight>
+			</episode>
+			<episode id="3" type="photo">
+				<photo>img/cast/ep3/baronRivers_ep3.png</photo>
+				<dead>true</dead>
+			</episode>
+		</cast>
+		                	
+		<!-- Jacquetta Woodville -->
+		<cast id="jacquettaWoodville">
+			<name>Jacquetta Woodville</name>
+			<episode id="1">
+				<description><![CDATA[Mother of Elizabeth Woodville, brilliantly sharp and manipulative, Jacquetta’s keen insight into court-life is the acumen that propels her daughter into power. <a href="http://www.starz.com/originals/TheWhiteQueen/Cast/JacquettaWoodville" target="_blank">&raquo; More</a>]]></description>
+				<photo>img/cast/ep1/jacquettaWoodville_ep1.png</photo>
+				<largephoto>img/cast/large/jacquettaWoodville.jpg</largephoto>
+				<dead>false</dead>
+				<row>29</row>
+				<column>30</column>
+				<!--<icons>
+					<icon>
+						<trophy>img/icons/warOfTheWords</trophy>
+						<title>War of the Words</title>
+					</icon>
+				</icons> -->
+				<videos>
+					<video>
+						<title>Character Introduction Video</title>
+						<path>video/character/jacquetta</path>
+					</video>
+				</videos>
+				<background>
+					<bullet>After the marriage of daughter Elizabeth to King Edward IV, she switched allegiances from Lancaster to York</bullet>
+					<bullet>An ancestor of the current Queen of England (Elizabeth II), and Prince William</bullet>
+				</background>
+			</episode>
+			<episode id="2">
+				<photo>img/cast/ep2/jacquettaWoodville_ep2.png</photo>
+			</episode>
+			<episode id="7" type="photo">
+				<photo>img/cast/ep7/jacquettaWoodville_ep7.png</photo>
+			</episode>
+		</cast>
+		
+		<!-- RICHARD DUKE OF YORK -->
+		<cast id="richardDukeOfYork">
+			<name>Richard, Duke of York</name>
+			<episode id="1">
+				<description>Born c. 1411, died c. 1460</description>
+				<photo>img/cast/male_york_dead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>29</row>
+				<column>37</column>
+			</episode>
+		</cast>
+		
+		<!-- Cecily Neville -->
+		<cast id="cecilyNeville">
+			<name>Cecily Neville</name>
+			<episode id="1">
+				<description>Born c. 1415</description>
+				<photo>img/cast/ep1/cecilyNeville_ep1.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>29</row>
+				<column>39</column>
+				<!--<icons>
+					<icon>
+						<trophy>img/icons/ifLooksCouldKill</trophy>
+						<title>If Looks Could Kill</title>
+					</icon>
+				</icons>-->
+			</episode>
+		</cast>
+		
+		
+		<!-- Henry Percy -->
+		<cast id="henryPercy">
+			<name>Henry Percy</name>
+			<episode id="1">
+				<description>Born c. 1393, died c. 1455</description>
+				<photo>img/cast/male_lanc_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>29</row>
+				<column>42</column>
+			</episode>
+		</cast>
+                	
+		<!-- Eleanor Neville -->
+		<cast id="eleanorNeville">
+			<name>Eleanor Neville</name>
+			<episode id="1">
+				<description>Born c. 1398</description>
+				<photo>img/cast/female_lanc_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>29</row>
+				<column>44</column>
+			</episode>
+		</cast>
+                	
+		<!-- Richard Neville -->
+		<cast id="richardNeville">
+			<name>Richard Neville</name>
+			<episode id="1">
+				<description>Born c. 1428</description>
+				<photo>img/cast/male_york_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>29</row>
+				<column>48</column>
+			</episode>
+		</cast>
+		                	
+		<!-- William Neville -->
+		<cast id="williamNeville">
+			<name>William Neville</name>
+			<episode id="1">
+				<description>Born c. 1410, died c. 1463</description>
+				<photo>img/cast/male_york_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>29</row>
+				<column>52</column>
+			</episode>
+		</cast>
+		
+		<!-- Richard Welles -->
+		<cast id="richardWelles">
+			<name>Richard Welles</name>
+			<episode id="1">
+				<description>Born c. 1431</description>
+				<photo>img/cast/ep1/richardWelles_ep1.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>30</row>
+				<column>18</column>
+			</episode>
+			<episode id="4" type="photo">
+				<photo>img/cast/ep4/richardWelles_ep4.png</photo>
+			</episode>
+		</cast>
+                	
+		<!-- Henry Percy 2 -->
+		<cast id="henryPercy2">
+			<name>Henry Percy</name>
+			<episode id="1">
+				<description>Born c. 1421, died c. 1461</description>
+				<photo>img/cast/male_lanc_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>31</row>
+				<column>43</column>
+			</episode>
+		</cast>
+	                	
+		<!-- Lord Warwick -->
+		<cast id="lordWarwick">
+			<name>Lord Warwick</name>
+			<episode id="1">
+				<description><![CDATA[Warwick’s master manipulation in elevating King Edward IV to the throne earned him the epithet &quot;Kingmaker.&quot; <a href="http://www.starz.com/originals/TheWhiteQueen/Cast/LordWarwickTheKingmaker" target="_blank">&raquo; More</a>]]></description>
+				<photo>img/cast/ep1/lordWarwick_ep1.png</photo>
+				<largephoto>img/cast/large/lordWarwick.jpg</largephoto>
+				<dead>false</dead>
+				<row>31</row>
+				<column>45</column>
+				<videos>
+					<video>
+						<title>Character Introduction Video</title>
+						<path>video/character/warwick</path>
+					</video>
+				</videos>
+				<background>
+					<bullet>His power and political connections earned him the title "The Kingmaker"</bullet>
+					<bullet>Was a great ally to King Edward IV until Edward married Elizabeth Woodville</bullet>
+					<!--<bullet>Was instrumental in getting Henry VI back on the throne, briefly</bullet>
+					<bullet>Struck from his horse and killed in the Battle Of Barnett</bullet>-->
+				</background>
+			</episode>
+			<episode id="6" type="photo">
+				<photo>img/cast/ep6/lordWarwick_ep6.png</photo>
+			</episode>
+		</cast>
+			                	
+		<!-- Anne de Beauchamp -->
+		<cast id="anneBeauchamp">
+			<name>Countess of Warwick</name>
+			<episode id="1">
+				<description>Born c. 1426</description>
+				<photo>img/cast/ep1/anneDeBeauchamp_ep1.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>31</row>
+				<column>47</column>
+				<background>
+					<bullet>Born Lady Anne de Beauchamp</bullet>
+					<!--<bullet>Died in obscurity after being disinherited by both her daughters and their spouses</bullet>-->
+				</background>
+			</episode>
+		</cast>
+		                	
+		<!-- John Neville -->
+		<cast id="johnNeville">
+			<name>John Neville</name>
+			<episode id="1">
+				<description>Born c. 1431</description>
+				<photo>img/cast/male_york_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>31</row>
+				<column>50</column>
+			</episode>
+		</cast>
+		                	
+		<!-- Thomas Neville -->
+		<cast id="thomasNeville">
+			<name>Thomas Neville</name>
+			<episode id="1">
+				<description>Born c. 1429</description>
+				<photo>img/cast/male_york_longDead.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>31</row>
+				<column>52</column>
+			</episode>
+		</cast>
+		
+		<!-- Margaret d'Anjou -->
+		<cast id="margaretAnjou">
+			<name>Margaret d'Anjou</name>
+			<episode id="1">
+				<description>Born c. 1430</description>
+				<photo>img/cast/ep1/margaretDAnjou_ep1.png</photo>
+				<largephoto>img/cast/large/margaretDAnjou.jpg</largephoto>
+				<dead>false</dead>
+				<row>33</row>
+				<column>6</column>
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queenDeposed</trophy>
+						<title>Deposed Queen</title>
+					</icon>
+				</icons>
+				<videos>
+					<video>
+						<title>Character Introduction Video</title>
+						<path>video/character/margaretAnjou</path>
+					</video>
+				</videos>
+				<background>
+					<bullet>Cousin to King Louis XI of France</bullet>
+					<!--<bullet>Queen consort of England from 1445 to 1461, and again from 1470 to 1471</bullet>
+					<bullet>Imprisoned in England for five years until the King Louis XI paid a ransom</bullet>
+					<bullet>Lived the last years of her life in France</bullet>-->
+				</background>
+			</episode>
+			<episode id="2">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queenDeposed</trophy>
+						<title>Deposed Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="3">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queenDeposed</trophy>
+						<title>Deposed Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="4">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queenDeposed</trophy>
+						<title>Deposed Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="5">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queen</trophy>
+						<title>Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="6">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queenDeposed</trophy>
+						<title>Deposed Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="7">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queenDeposed</trophy>
+						<title>Deposed Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="8">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queenDeposed</trophy>
+						<title>Deposed Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="9">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queenDeposed</trophy>
+						<title>Deposed Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="10">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queenDeposed</trophy>
+						<title>Deposed Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="11">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queenDeposed</trophy>
+						<title>Deposed Queen</title>
+					</icon>
+				</icons>
+			</episode>
+		</cast>
+                
+		<!-- King Henry VI -->
+		<cast id="kingHenryVI">
+			<name>King Henry VI</name>
+			<episode id="1">
+				<description>Born c. 1421</description>
+				<photo>img/cast/ep1/henryVI_ep1.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>33</row>
+				<column>8</column>
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/kingDeposed</trophy>
+						<title>Deposed King</title>
+					</icon>
+				</icons>
+				<background>
+					<!--<bullet>Twice the King of England - 1422 to 1461, and 1470 to 1471</bullet>-->
+					<bullet>Became king at nine months old, the youngest person ever to succeed to the English throne</bullet>
+					<bullet>The disputed King of France from 1422-1453</bullet>
+					<bullet>Had a complete mental breakdown in late 1453, which lasted over a year</bullet>
+					<!--<bullet>Imprisoned in the Tower of London before his death</bullet>-->
+					<bullet>Founded Eton College, and Kings College, Cambridge</bullet>
+					<bullet>An ancestor of King Henry VIII and Elizabeth I</bullet>
+				</background>
+			</episode>
+			<episode id="2">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/kingDeposed</trophy>
+						<title>Deposed King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="3">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/kingDeposed</trophy>
+						<title>Deposed King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="4">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/kingDeposed</trophy>
+						<title>Deposed King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="5">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="6" type="photo">
+				<photo>img/cast/ep6/henryVI_ep6.png</photo>
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/kingDeposed</trophy>
+						<title>Deposed King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="7">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/kingDeposed</trophy>
+						<title>Deposed King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="8">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/kingDeposed</trophy>
+						<title>Deposed King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="9">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/kingDeposed</trophy>
+						<title>Deposed King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="10">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/kingDeposed</trophy>
+						<title>Deposed King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="11">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/kingDeposed</trophy>
+						<title>Deposed King</title>
+					</icon>
+				</icons>
+			</episode>
+		</cast>
+		                	
+		<!-- Jasper Tudor -->
+		<cast id="jasperTudor">
+			<name>Jasper Tudor</name>
+			<episode id="1">
+				<description><![CDATA[Jasper is a diehard Lancastrian, and extremely loyal to his roots. When his elder brother Edward died, he swore to protect Margaret of Beaufort, Edward’s wife, and her young son Henry Tudor. <a href="http://www.starz.com/originals/TheWhiteQueen/Cast/JasperTudor" target="_blank">&raquo; More</a>]]></description>
+				<photo>img/cast/ep1/jasperTudor_ep1.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>33</row>
+				<column>11</column>
+				<background>
+					<bullet>Titles included Knight of the Garter, 1st Duke of Bedford and 1st Earl of Pembroke</bullet>
+					<bullet>Allegedly fathered two illegitimate daughters - Helen and Joan</bullet>
+					<bullet>If Joan Tudor was his daughter, Jasper is an ancestor of Oliver Cromwell</bullet>
+				</background>
+			</episode>
+			<episode id="9" type="photo">
+				<photo>img/cast/ep9/jasperTudor_ep9.png</photo>
+			</episode>
+		</cast>
+		                	
+		<!-- Edmond Tudor -->
+		<cast id="edmondTudor">
+			<name>Edmond Tudor</name>
+			<episode id="1">
+				<description>Born c. 1430, died c. 1456</description>
+				<photo>img/cast/male_lanc_dead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>33</row>
+				<column>13</column>
+			</episode>
+		</cast>
+		                	
+		<!-- Margaret Beaufort -->
+		<cast id="margaretBeaufort">
+			<name>Margaret Beaufort</name>
+			<episode id="1">
+				<description><![CDATA[A loyal Lancastrian, and cousin to the deposed King Henry VI, Margaret suffered a difficult childhood raised by a loveless and vindictive mother, Lady Beauchamp. <a href="http://www.starz.com/originals/TheWhiteQueen/Cast/MargaretBeaufort" target="_blank">&raquo; More</a>]]></description>
+				<photo>img/cast/ep1/margaretBeaufort_ep1.png</photo>
+				<largephoto>img/cast/large/margaretBeaufort.jpg</largephoto>
+				<dead>false</dead>
+				<row>33</row>
+				<column>15</column>
+				<videos>
+					<video>
+						<title>Character Introduction Video</title>
+						<path>video/character/margaretBeaufort</path>
+					</video>
+				</videos>
+				<background>
+					<!--<bullet>Held many titles, including Dowager Countess of Richmond, and Baroness Stanley</bullet>
+					<bullet>Invented her own title - "My Lady, The King's Mother"</bullet>-->
+					<bullet>Signed her name like a royal - Margaret R. (Margaret Regina)</bullet>
+					<bullet>Buried alongside Mary, Queen of Scots</bullet>
+					<!--<bullet>Her descendants include King Henry VIII, Henry Tudor, and Elizabeth I</bullet>-->
+				</background>
+			</episode>
+		</cast>
+		                	
+		<!-- Sir Henry Stafford -->
+		<cast id="sirHenryStafford">
+			<name>Sir Henry Stafford</name>
+			<episode id="1">
+				<description>Born c. 1425</description>
+				<photo>img/cast/ep1/henryStafford_ep1.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>33</row>
+				<column>17</column>
+				<background>
+					<bullet>Also known as the 2nd Duke of Buckingham</bullet>
+					<!--<bullet>A key player in King Richard III’s rise and fall</bullet>
+					<bullet>Accused by some in the suspected murder of the Princes in the Tower – the two sons of Edward IV and Elizabeth Woodville</bullet>-->
+				</background>
+			</episode>
+			<episode id="6" type="photo">
+				<photo>img/cast/ep6/henryStafford_ep6.png</photo>
+				<connection>3316</connection>
+			</episode>
+			<episode id="7" type="move">
+				<photo>img/cast/ep6/henryStafford_ep6.png</photo>
+				<connection>3217 3218 3219</connection>
+				<row>33</row>
+				<column>19</column>
+			</episode>
+		</cast>
+		
+		<!-- Thomas Stanley -->
+		<cast id="thomasStanley">
+			<name>Thomas Stanley</name>
+			<episode id="7" type="new">
+				<description>Born c. 1435</description>
+				<photo>img/cast/ep7/thomasStanley.png</photo>
+				<dead>false</dead>
+				<row>33</row>
+				<column>17</column>
+				<connection>3316</connection>
+			</episode>
+		</cast>
+		                	
+		<!-- Humphrey Stafford -->
+		<cast id="humphreyStafford2">
+			<name>Humphrey Stafford</name>
+			<episode id="1">
+				<description>Born c. 1425, died c. 1458</description>
+				<photo>img/cast/male_plan_dead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>33</row>
+				<column>22</column>
+			</episode>
+		</cast>
+		                	
+		<!-- Anthony Rivers -->
+		<cast id="anthonyRivers">
+			<name>Anthony Rivers</name>
+			<episode id="1">
+				<description><![CDATA[The brother of Elizabeth Woodville, and the eldest son of their parents Richard Woodville and Jacquetta of Luxembourg. Anthony is protective of his sister and his family, and the only man at court whom Elizabeth can fully trust. <a href="http://www.starz.com/originals/TheWhiteQueen/Cast/AnthonyRivers" target="_blank">&raquo; More</a>]]></description>
+				<photo>img/cast/ep1/anthonyRivers_ep1.png</photo>
+				<largephoto>img/cast/large/anthonyRivers.jpg</largephoto>
+				<dead>false</dead>
+				<row>33</row>
+				<column>24</column>
+				<videos>
+					<video>
+						<title>Character Introduction Video</title>
+						<path>video/character/anthony</path>
+					</video>
+				</videos>
+				<background>
+					<!--<bullet>Had the title 2nd Earl Rivers</bullet>-->
+					<bullet>Once fought a two-day duel with Antoine, bastard of Burgundy</bullet>
+					<bullet>One of the purest writers of English prose in his time</bullet>
+				</background>
+			</episode>
+			<episode id="2">
+				<photo>img/cast/ep2/anthonyRivers_ep2.png</photo>
+			</episode>
+			<episode id="9" type="photo">
+				<photo>img/cast/ep9/anthonyRivers_ep9.png</photo>
+			</episode>
+		</cast>
+		                	
+		<!-- Katherine Woodville -->
+		<cast id="katherineWoodville">
+			<name>Katherine Woodville</name>
+			<episode id="1">
+				<description>Born c. 1458</description>
+				<photo>img/cast/ep1/katherineWoodville_ep1.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>33</row>
+				<column>26</column>
+			</episode>
+			<episode id="2">
+				<photo>img/cast/ep2/katherineWoodville_ep2.png</photo>
+			</episode>
+			<episode id="3" type="move">
+				<row>36</row>
+				<column>26</column>
+				<connection>3226 3326 3426 3526 3623 3624 3625</connection>
+				<related>harryStafford</related>
+			</episode>
+			<episode id="9" type="photo">
+				<photo>img/cast/female_york.png</photo>
+			</episode>
+			
+		</cast>
+		                	
+		<!-- Mary Woodville -->
+		<cast id="maryWoodville">
+			<name>Mary Woodville</name>
+			<episode id="1">
+				<description>Born c. 1456</description>
+				<photo>img/cast/ep1/maryWoodville_ep1.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>33</row>
+				<column>28</column>
+			</episode>
+			<episode id="2">
+				<photo>img/cast/ep2/maryWoodville_ep2.png</photo>
+				<highlight>img/cast/halo_york.png</highlight>
+			</episode>
+		</cast>
+		                	
+		<!-- John Woodville -->
+		<cast id="johnWoodville">
+			<name>John Woodville</name>
+			<episode id="1">
+				<description>Born c. 1444</description>
+				<photo>img/cast/ep1/johnWoodville_ep1.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>33</row>
+				<column>30</column>
+			</episode>
+			<episode id="2">
+				<photo>img/cast/ep2/johnWoodville_ep2.png</photo>
+				<highlight>img/cast/halo_york.png</highlight>
+			</episode>
+			<episode id="3" type="photo">
+				<photo>img/cast/ep3/johnWoodville_ep3.png</photo>
+			</episode>
+		</cast>
+		
+		<!-- JOHN GREY -->
+		<cast id="johnGrey">
+			<name>John Grey</name>
+			<episode id="1">
+				<description>Born c. 1432, died c. 1461</description>
+				<photo>img/cast/male_lanc_dead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>33</row>
+				<column>32</column>
+			</episode>
+		</cast>
+		
+		<!-- ELIZABETH WOODVILLE -->
+		<cast id="elizabethWoodville">
+			<name>Elizabeth Woodville</name>
+			<episode id="1">
+				<description><![CDATA[A young commoner from the House of Lancaster with angelic beauty and high intellect, Elizabeth becomes widowed when her first husband is killed in a battle against the House of York. <a href="http://www.starz.com/originals/TheWhiteQueen/Cast/ElizabethWoodville" target="_blank">&raquo; More</a>]]></description>
+				<photo>img/cast/ep1/elizabethWoodville_ep1.png</photo>
+				<largephoto>img/cast/elizabeth-big.jpg</largephoto>
+				<dead>false</dead>
+				<row>33</row>
+				<column>34</column>
+				<videos>
+					<video>
+						<title>Character Introduction Video</title>
+						<path>video/character/elizabeth</path>
+					</video>
+				</videos>
+				<background>
+					<bullet>Crowned Queen on May 26th, 1465</bullet>
+					<!--<bullet>Suspected of plotting against Henry VII in 1487</bullet>
+					<bullet>Great grandmother to King Edward VI, Queen Mary I of England, and Queen Elizabeth I</bullet>-->
+				</background>
+			</episode>
+			<episode id="2" type="photo">
+				<photo>img/cast/ep2/elizabethWoodville_ep2.png</photo>
+				<connection>3335</connection>
+				<row>33</row>
+				<column>34</column>
+				<related>thomasGrey richardGrey baronRivers jacquettaWoodville anthonyRivers katherineWoodville maryWoodville johnWoodville</related>
+				<highlight>img/cast/halo_york.png</highlight>
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queen</trophy>
+						<title>Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="3">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queen</trophy>
+						<title>Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="4">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queen</trophy>
+						<title>Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="5">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queenDeposed</trophy>
+						<title>Deposed Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="6">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queen</trophy>
+						<title>Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="7">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queen</trophy>
+						<title>Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="8">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queen</trophy>
+						<title>Queen</title>
+					</icon>
+				</icons>
+			</episode>
+		</cast>
+		
+		<!-- KING EDWARD IV -->
+		<cast id="kingEdwardIV">
+			<name>King Edward IV</name>
+			<episode id="1">
+				<description><![CDATA[The young monarch from the House of York who deposed the Lancastrian Henry VI, is crowned King of England with the help of the master manipulator, Lord Warwick, &quot;The Kingmaker.&quot; <a href="http://www.starz.com/originals/TheWhiteQueen/Cast/KingEdwardIV" target="_blank">&raquo; More</a>]]></description>
+				<photo>img/cast/ep1/edwardIV_ep1.png</photo>
+				<largephoto>img/cast/large/edwardIV.jpg</largephoto>
+				<dead>false</dead>
+				<row>33</row>
+				<column>36</column>
+				<videos>
+					<video>
+						<title>Character Introduction Video</title>
+						<path>video/character/edward</path>
+					</video>
+				</videos>
+				<background>
+					<bullet>Declared King of England in 1461, with the help of his cousin Richard Neville (16th Earl of Warwick)</bullet>
+					<bullet>The first Yorkist king of England</bullet>
+					<!--<bullet>Briefly lost the throne to Henry VI in 1470, before winning it back in 1471</bullet>-->
+				</background>
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="2">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="3">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="4">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="5">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/kingDeposed</trophy>
+						<title>Deposed King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="6">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="7">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="8">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="9" type="photo">
+				<photo>img/cast/ep9/edwardIV_ep9.png</photo>
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+		</cast>
+		
+		<!-- Margaret Plantagenet -->
+		<cast id="margaretPlantagenet">
+			<name>Margaret Plantagenet</name>
+			<episode id="8" type="new">
+				<description>Born c. 1473</description>
+				<photo>img/cast/female_york.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>35</row>
+				<column>38</column>
+				<connection>3339 3438 3439 3440</connection>
+			</episode>
+		</cast>
+		
+		<!-- Edward Plantagenet -->
+		<cast id="edwardPlantagenet">
+			<name>Edward Plantagenet</name>
+			<episode id="8" type="new">
+				<description>Born c. 1475</description>
+				<photo>img/cast/male_york.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>35</row>
+				<column>40</column>
+			</episode>
+		</cast>
+		
+		<!-- George, Duke of Clarence -->
+		<cast id="georgeDukeOfClarence">
+			<name>George, Duke of Clarence</name>
+			<episode id="1">
+				<description><![CDATA[Brother to King Edward IV and Richard, Duke of Gloucester, George is next in line to the throne and is hungry to take that title at the first opportunity. Unlike his brother Richard, George has no loyalty to Edward IV. <a href="http://www.starz.com/originals/TheWhiteQueen/Cast/GeorgeDukeOfClarence" target="_blank">&raquo; More</a>]]></description>
+				<photo>img/cast/ep1/george_ep1.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>33</row>
+				<column>38</column>
+				<videos>
+					<video>
+						<title>Character Introduction Video</title>
+						<path>video/character/george</path>
+					</video>
+				</videos>
+				<background>
+					<bullet>Also known as George Plantagenet, 1st Earl of Salisbury, 1st Earl of Warwick</bullet>
+					<bullet>Features in two Shakespeare plays - Henry VI Part 3 and The Tragedy of Richard III</bullet>
+					<!--<bullet>His son Edward was beheaded by King Henry VII</bullet>
+					<bullet>His daughter Margaret was executed by King Henry VIII</bullet>-->
+				</background>
+			</episode>
+			<episode id="5" type="photo">
+				<photo>img/cast/ep5/george_ep5.png</photo>
+			</episode>
+			<episode id="6" type="photo">
+				<photo>img/cast/ep6/george_ep6.png</photo>
+			</episode>
+			<episode id="8" type="photo">
+				<photo>img/cast/ep8/george_ep8.png</photo>
+			</episode>
+		</cast>
+		
+		<!-- Richard, Duke of Gloucester -->
+		<cast id="RichardDukeofGloucester">
+			<name>Richard, Duke of Gloucester</name>
+			<episode id="1">
+				<description><![CDATA[The youngest of the York brothers, Richard is a trustworthy, honorable, and ambitious man. He is also a highly regarded military commander and is fiercely loyal to his older brother, King Edward IV, despite living in his shadow. <a href="http://www.starz.com/originals/TheWhiteQueen/Cast/RichardDukeOfGloucester" target="_blank">&raquo; More</a>]]></description>
+				<photo>img/cast/ep1/richard_ep1.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>33</row>
+				<column>40</column>
+				<videos>
+					<video>
+						<title>Character Introduction Video</title>
+						<path>video/character/richard</path>
+					</video>
+				</videos>
+				<background>
+					<!--<bullet>More commonly known as Richard III</bullet>
+					<bullet>Named Lord Protector of the realm when his brother, King Edward IV, died</bullet>-->
+					<bullet>Portrayed by Shakespeare as hunchback</bullet>
+					<bullet>His remains were recently found in a car park in Leicester, England</bullet>
+					<bullet>An ancestor to US President George Washington, and General George Patton</bullet>
+				</background>
+			</episode>
+			<episode id="3" type="move">
+				<row>33</row>
+				<column>42</column>
+				<connection>3140 3141 3142 3240 3241 3242 3243 3244 3245</connection>
+			</episode>
+			<episode id="7" type="connection">
+				<row>33</row>
+				<column>42</column>
+				<connection>3343 3344 3345 3346</connection>
+			</episode>
+			<episode id="9">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="10">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="11" type="photo">
+				<photo>img/cast/ep11/richard_ep11.png</photo>
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+		</cast>
+		
+		<!-- Isabel Neville -->
+		<cast id="isabelNeville">
+			<name>Isabel Neville</name>
+			<episode id="1">
+				<description><![CDATA[The eldest daughter of Lord Warwick, “The Kingmaker,” and sister to Anne Neville, Isabel is a strongwilled girl who shares her father’s powers of manipulation. She knows that her primary duty is to marry well, ensuring the safety and security of her family. <a href="http://www.starz.com/originals/TheWhiteQueen/Cast/IsabelNeville" target="_blank">&raquo; More</a>]]></description>
+				<photo>img/cast/ep1/isabelNeville_ep1.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>33</row>
+				<column>45</column>
+				<videos>
+					<video>
+						<title>Character Introduction Video</title>
+						<path>video/character/isabel</path>
+					</video>
+				</videos>
+				<!--<background>
+					<bullet>Married in secret in Calais, as part of George and Warwick's rebellion against King Edward IV</bullet>
+					<bullet>Gave birth to a stillborn child on a boat at sea, off the coast of Calais</bullet>
+					<bullet>Her untimely death was blamed on her lady in waiting, Ankarette Twynho, who was found guilty and hanged</bullet>
+				</background>-->
+			</episode>
+			
+			<episode id="3" type="move">
+				<row>33</row>
+				<column>40</column>
+				<connection>3339</connection>
+			</episode>
+			<episode id="8" type="photo">
+				<photo>img/cast/ep8/isabel_ep8.png</photo>
+			</episode>
+		</cast>
+                	
+		<!-- Anne Neville -->
+		<cast id="anneNeville">
+			<name>Anne Neville</name>
+			<episode id="1">
+				<description><![CDATA[As the daughter of Lord Warwick, &quot;The Kingmaker,&quot; Anne is a timid girl who becomes a pawn in her father’s struggle for power. <a href="http://www.starz.com/originals/TheWhiteQueen/Cast/AnneNeville" target="_blank">&raquo; More</a>]]></description>
+				<photo>img/cast/ep1/anneNeville_ep1.png</photo>
+				<largephoto>img/cast/large/anneNeville.jpg</largephoto>
+				<dead>false</dead>
+				<row>33</row>
+				<column>47</column>
+				<videos>
+					<video>
+						<title>Character Introduction Video</title>
+						<path>video/character/anne</path>
+					</video>
+				</videos>
+				<!--<background>
+					<bullet>Ordered to marry Margaret of Anjou's son by her father, Richard Neville</bullet>
+					<bullet>Named the Duchess of Gloucester in 1472</bullet>
+					<bullet>The first queen in English history to be crowned alongside the king</bullet>
+					<bullet>Died from Tuberculosis on the day of a great eclipse, after only two years as queen</bullet>
+				</background>-->
+			</episode>
+			
+			<episode id="5" type="move">
+				<row>35</row>
+				<column>47</column>
+				<connection>3347 3447</connection>
+			</episode>
+			<episode id="7" type="move">
+				<row>33</row>
+				<column>47</column>
+				<connection>3347 3447</connection>
+			</episode>
+			<episode id="9">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queen</trophy>
+						<title>Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="10">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queen</trophy>
+						<title>Queen</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="11" type="photo">
+				<photo>img/cast/ep11/anneNeville_ep11.png</photo>
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queen</trophy>
+						<title>Queen</title>
+					</icon>
+				</icons>
+			</episode>
+		</cast>
+		
+		<!-- Edward of Lancaster -->
+		<cast id="edwardLancaster">
+			<name>Edward of Lancaster</name>
+			<episode id="1">
+				<description>Born c. 1453</description>
+				<photo>img/cast/ep1/edwardOfLancaster_ep1.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>35</row>
+				<column>7</column>
+				<background>
+					<bullet>Also known as Edward of Westminster and Prince of Wales</bullet>
+					<bullet>The supposed bastard child of Margaret of Anjou and one of her loyalists</bullet>
+					<!--<bullet>The only heir apparent to the English throne to be killed in battle</bullet>-->
+				</background>
+			</episode>
+			<episode id="5" type="photo">
+				<photo>img/cast/ep1/edwardOfLancaster_ep1.png</photo>
+				<connection>3508 3509 3510 3511 3512 3513 3514 3515 3516 3517 3518 3519 3520 3521 3522 3523 3524 3525 3526 3527 3528 3529 3530 3531 3532 3533 3534 3535 3536 3537 3538 3539 3540 3541 3542 3543 3544 3545 3546</connection>
+			</episode>
+			<episode id="6" type="photo">
+				<photo>img/cast/ep6/edwardOfLancaster_ep6.png</photo>
+				<connection>3508 3509 3510 3511 3512 3513 3514 3515 3516 3517 3518 3519 3520 3521 3522 3523 3524 3525 3526 3527 3528 3529 3530 3531 3532 3533 3534 3535 3536 3537 3538 3539 3540 3541 3542 3543 3544 3545 3546</connection>
+			</episode>
+		</cast>
+		
+		<!-- Edward of Middleham -->
+		<cast id="edwardOfMiddleham">
+			<name>Edward of Middleham</name>
+			<episode id="8" type="new">
+				<description>Born c. 1473</description>
+				<photo>img/cast/male_york.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>35</row>
+				<column>45</column>
+				<connection>3345 3445</connection>
+			</episode>
+			<episode id="11" type="photo">
+				<photo>img/cast/ep11/edwardMiddleham_ep11.png</photo>
+			</episode>
+		</cast>
+                	
+		<!-- Henry Tudor -->
+		<cast id="henryTudor">
+			<name>Henry Tudor</name>
+			<episode id="1">
+				<description>Born c. 1457</description>
+				<photo>img/cast/ep1/henryTudor_ep1.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>36</row>
+				<column>14</column>
+				<!--<background>
+					<bullet>Named head of the House of Lancaster in 1471 after the death of Henry VI</bullet>
+				</background>-->
+			</episode>
+			<episode id="3" type="photo">
+				<photo>img/cast/ep3/henryTudor_ep3.png</photo>
+			</episode>
+			<episode id="10" type="photo">
+				<photo>img/cast/ep10/henryTudor_ep10.png</photo>
+			</episode>
+			<episode id="11" type="move">
+				<row>38</row>
+				<column>14</column>
+				<connection>3614 3714</connection>
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/king</trophy>
+						<title>King</title>
+					</icon>
+				</icons>
+			</episode>
+			
+		</cast>
+                	
+		<!-- Harry Stafford -->
+		<cast id="harryStafford">
+			<name>Harry Stafford</name>
+			<episode id="1">
+				<description>Born c. 1455</description>
+				<photo>img/cast/ep1/harryStafford_ep1.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>36</row>
+				<column>22</column>
+				<!--<background>
+					<bullet>Became head of the House of Lancaster after Henry VI’s death in 1471</bullet>
+					<bullet>Crowned king after defeating the royal forces of Richard at the Battle of Bosworth Field</bullet>
+					<bullet>His marriage to Elizabeth of York united the houses of York and Lancaster, ending the War of the Roses</bullet>
+				</background>-->
+
+			</episode>
+			<episode id="3">
+				<photo>img/cast/ep3/harryStafford_ep3.png</photo>
+			</episode>
+			<episode id="9" type="photo">
+				<photo>img/cast/ep9/harryStafford_ep9.png</photo>
+			</episode>
+			<episode id="10" type="photo">
+				<photo>img/cast/ep10/harryStafford_ep10.png</photo>
+			</episode>
+		</cast>
+		
+		<!-- Anne Holland -->
+		<cast id="anneHolland">
+			<name>Anne Holland</name>
+			<episode id="8" type="new">
+				<description>Born c. 1455</description>
+				<photo>img/cast/female_york.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>36</row>
+				<column>30</column>
+				<connection>3631</connection>
+			</episode>
+		</cast>
+		
+		<!-- THOMAS GREY -->
+		<cast id="thomasGrey">
+			<name>Thomas Grey</name>
+			<episode id="1">
+				<description>Born c. 1455</description>
+				<photo>img/cast/ep1/thomasGrey_ep1.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>36</row>
+				<column>32</column>
+				<background>
+					<bullet>Also owned the title 1st Marquis of Dorset</bullet>
+					<bullet>Gained a powerful position once his mother, Elizabeth Woodville, married Edward IV</bullet>
+					<!--<bullet>Helped murder Henry VI</bullet>-->
+				</background>
+			</episode>
+			<episode id="2">
+				<photo>img/cast/ep2/thomasGrey_ep2.png</photo>
+				<highlight>img/cast/halo_york.png</highlight>
+			</episode>
+			<episode id="3" type="photo">
+				<photo>img/cast/ep3/thomasGrey_ep3.png</photo>
+			</episode>
+			<episode id="9" type="photo">
+				<photo>img/cast/ep9/thomasGrey_ep9.png</photo>
+			</episode>
+		</cast>
+		
+		<!-- RICHARD GREY -->
+		<cast id="richardGrey">
+			<name>Richard Grey</name>
+			<episode id="1">
+				<description>Born c. 1460</description>
+				<photo>img/cast/ep1/richardGrey_ep1.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>36</row>
+				<column>34</column>
+				<background>
+					<bullet>Brother of Thomas Grey and half-brother of Edward V</bullet>
+					<bullet>Knighted and given four nominations to The Most Noble Order of the Garter, but never appointed</bullet>
+					<bullet>Served as Justice of the Peace in Herefordshire</bullet>
+					<!--<bullet>Arrested and later executed along with his uncle Anthony Woodville by Richard III</bullet>-->
+				</background>
+			</episode>
+			<episode id="2">
+				<photo>img/cast/ep2/richardGrey_ep2.png</photo>
+				<highlight>img/cast/halo_york.png</highlight>
+			</episode>
+			<episode id="3" type="photo">
+				<photo>img/cast/ep3/richardGrey_ep3.png</photo>
+			</episode>
+			<episode id="9" type="photo">
+				<photo>img/cast/ep9/richardGrey_ep9.png</photo>
+			</episode>
+		</cast>
+		
+		<!-- ELIZABETH OF YORK -->
+		<cast id="elizabethYork">
+			<name>Elizabeth of York</name>
+			<episode id="3" type="new">
+				<description>Born c. 1466</description>
+				<photo>img/cast/female_york.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>38</row>
+				<column>34</column>
+				<connection>3335 3435 3535 3635 3734 3735 3736 3737 3738</connection>
+				<highlight>img/cast/halo_york.png</highlight>
+			</episode>
+			<episode id="9" type="photo">
+				<photo>img/cast/ep9/elizabethOfYork_ep9.png</photo>
+			</episode>
+			<episode id="11">
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/queen</trophy>
+						<title>Queen</title>
+					</icon>
+				</icons>
+			</episode>
+		</cast>
+		
+		<!-- MARY OF YORK -->
+		<cast id="maryYork">
+			<name>Mary of York</name>
+			<episode id="3" type="new">
+				<description>Born c. 1467</description>
+				<photo>img/cast/female_york.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>38</row>
+				<column>36</column>
+				<connection></connection>
+				<highlight>img/cast/halo_york.png</highlight>
+			</episode>
+		</cast>
+		
+		<!-- CECILLY OF YORK -->
+		<cast id="cecillyfYork">
+			<name>Cecilly of York</name>
+			<episode id="3" type="new">
+				<description>Born c. 1469</description>
+				<photo>img/cast/female_york.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>38</row>
+				<column>38</column>
+				<connection></connection>
+				<highlight>img/cast/halo_york.png</highlight>
+			</episode>
+			<episode id="9" type="photo">
+				<photo>img/cast/ep9/cecilyOfYork_ep9.png</photo>
+			</episode>
+		</cast>
+		
+		<!-- EDWARD OF YORK -->
+		<cast id="edwardofyork">
+			<name>Edward of York</name>
+			<episode id="5" type="new">
+				<description>Born c. 1469</description>
+				<photo>img/cast/male_york.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>38</row>
+				<column>40</column>
+				<connection>3738 3739 3740</connection>
+			</episode>
+			<episode id="9" type="photo">
+				<photo>img/cast/ep9/edwardOfYork_ep9.png</photo>
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/kingDeposed</trophy>
+						<title>Usurped King</title>
+					</icon>
+				</icons>
+			</episode>
+			<episode id="10" type="photo">
+				<photo>img/cast/ep10/edwardOfYork_ep10.png</photo>
+				<icons>
+					<icon type="nonpoll">
+						<trophy>img/icons/kingDeposed</trophy>
+						<title>Usurped King</title>
+					</icon>
+				</icons>
+			</episode>
+		</cast>
+		<!-- INFANT SON -->
+		<cast id="infantSon">
+			<name>Infant Son</name>
+			<episode id="7" type="new">
+				<description>Born and died c. 1472</description>
+				<photo>img/cast/male_york_dead.png</photo>
+				<largephoto></largephoto>
+				<dead>true</dead>
+				<row>38</row>
+				<column>42</column>
+				<connection>3740 3741 3742</connection>
+			</episode>
+		</cast>
+		<!-- Richard of Shrewsbury -->
+		<cast id="richardOfShrewsbury">
+			<name>Richard of Shrewsbury</name>
+			<episode id="8" type="new">
+				<description>Born c. 1473</description>
+				<photo>img/cast/male_york.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>38</row>
+				<column>44</column>
+				<connection>3742 3743 3744</connection>
+			</episode>
+			<episode id="9" type="photo">
+				<photo>img/cast/ep9/richardOfShrewsbury_ep9.png</photo>
+			</episode>
+		</cast>
+		<!-- TUDOR DYNASTY -->
+		<cast id="tudorDynasty">
+			<name>Tudor Dynasty Begins</name>
+			<episode id="11" type="new">
+				<description>Ruled the Kingdom of England and its realms, including Wales and Ireland, from 1485 until 1603</description>
+				<photo>img/cast/ep11/tudorDynasty_ep11.png</photo>
+				<largephoto></largephoto>
+				<dead>false</dead>
+				<row>40</row>
+				<column>24</column>
+				<connection>3815 3816 3817 3818 3819 3820 3821 3822 3823 3824 3825 3826 3827 3828 3829 3830 3831 3832 3833 3924</connection>
+			</episode>
+		</cast>
+	</characters>
+	
+	<connections>
+		<!-- 222 -->
+		<connection>
+			<number>222</number>
+			<episode id="1">
+				<img>img/connectors/elbowLeft.png</img>
+				<row>2</row>
+				<column>22</column>
+			</episode>
+		</connection>
+		
+		<!-- 223 -->
+		<connection>
+			<number>223</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>2</row>
+				<column>23</column>
+			</episode>
+		</connection>
+		
+		<!-- 224 -->
+		<connection>
+			<number>224</number>
+			<episode id="1">
+				<img>img/connectors/junctionCross.png</img>
+				<row>2</row>
+				<column>24</column>
+			</episode>
+		</connection>
+		
+		<!-- 225 -->
+		<connection>
+			<number>225</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>2</row>
+				<column>25</column>
+			</episode>
+		</connection>
+		
+		<!-- 226 -->
+		<connection>
+			<number>226</number>
+			<episode id="1">
+				<img>img/connectors/elbowRight.png</img>
+				<row>2</row>
+				<column>26</column>
+			</episode>
+		</connection>
+		
+		<!-- 426 -->
+		<connection>
+			<number>426</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>4</row>
+				<column>26</column>
+			</episode>
+		</connection>
+		
+		<!-- 626 -->
+		<connection>
+			<number>626</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>6</row>
+				<column>26</column>
+			</episode>
+		</connection>
+		
+		<!-- 826 -->
+		<connection>
+			<number>826</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>8</row>
+				<column>26</column>
+			</episode>
+		</connection>
+		
+		<!-- 1026 -->
+		<connection>
+			<number>1026</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>10</row>
+				<column>26</column>
+			</episode>
+		</connection>
+		
+		<!-- 1204 -->
+		<connection>
+			<number>1204</number>
+			<episode id="1">
+				<img>img/connectors/elbowLeft.png</img>
+				<row>12</row>
+				<column>4</column>
+			</episode>
+		</connection>
+		
+		<!-- 1205 -->
+		<connection>
+			<number>1205</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>5</column>
+			</episode>
+		</connection>
+		
+		<!-- 1206 -->
+		<connection>
+			<number>1206</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>6</column>
+			</episode>
+		</connection>
+		
+		<!-- 1207 -->
+		<connection>
+			<number>1207</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>7</column>
+			</episode>
+		</connection>
+		
+		<!-- 1208 -->
+		<connection>
+			<number>1208</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>8</column>
+			</episode>
+		</connection>
+		
+		<!-- 1209 -->
+		<connection>
+			<number>1209</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>9</column>
+			</episode>
+		</connection>
+		
+		<!-- 1210 -->
+		<connection>
+			<number>1210</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>10</column>
+			</episode>
+		</connection>
+		
+		<!-- 1211 -->
+		<connection>
+			<number>1211</number>
+			<episode id="1">
+				<img>img/connectors/junctionDown.png</img>
+				<row>12</row>
+				<column>11</column>
+			</episode>
+		</connection>
+		
+		<!-- 1212 -->
+		<connection>
+			<number>1212</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>12</column>
+			</episode>
+		</connection>
+		
+		<!-- 1213 -->
+		<connection>
+			<number>1213</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>13</column>
+			</episode>
+		</connection>
+		
+		<!-- 1214 -->
+		<connection>
+			<number>1214</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>14</column>
+			</episode>
+		</connection>
+		
+		<!-- 1215 -->
+		<connection>
+			<number>1215</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>15</column>
+			</episode>
+		</connection>
+		
+		<!-- 1216 -->
+		<connection>
+			<number>1216</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>16</column>
+			</episode>
+		</connection>
+		
+		<!-- 1217 -->
+		<connection>
+			<number>1217</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>17</column>
+			</episode>
+		</connection>
+		
+		<!-- 1218 -->
+		<connection>
+			<number>1218</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>18</column>
+			</episode>
+		</connection>
+		
+		<!-- 1219 -->
+		<connection>
+			<number>1219</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>19</column>
+			</episode>
+		</connection>
+		
+		<!-- 1220 -->
+		<connection>
+			<number>1220</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>20</column>
+			</episode>
+		</connection>
+		
+		<!-- 1221 -->
+		<connection>
+			<number>1221</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>21</column>
+			</episode>
+		</connection>
+		
+		<!-- 1222 -->
+		<connection>
+			<number>1222</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>22</column>
+			</episode>
+		</connection>
+		
+		<!-- 1223 -->
+		<connection>
+			<number>1223</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>23</column>
+			</episode>
+		</connection>
+		
+		<!-- 1224 -->
+		<connection>
+			<number>1224</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>24</column>
+			</episode>
+		</connection>
+		
+		<!-- 1225 -->
+		<connection>
+			<number>1225</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>25</column>
+			</episode>
+		</connection>
+		
+		<!-- 1226 -->
+		<connection>
+			<number>1226</number>
+			<episode id="1">
+				<img>img/connectors/junctionUp.png</img>
+				<row>12</row>
+				<column>26</column>
+			</episode>
+		</connection>
+		
+		<!-- 1227 -->
+		<connection>
+			<number>1227</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>27</column>
+			</episode>
+		</connection>
+		
+		<!-- 1228 -->
+		<connection>
+			<number>1228</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>28</column>
+			</episode>
+		</connection>
+		
+		<connection>
+			<number>1229</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>29</column>
+			</episode>
+		</connection>
+		
+		<!-- 1230 -->
+		<connection>
+			<number>1230</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>30</column>
+			</episode>
+		</connection>
+		
+		<!-- 1231 -->
+		<connection>
+			<number>1231</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>31</column>
+			</episode>
+		</connection>
+		
+		<!-- 1232 -->
+		<connection>
+			<number>1232</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>32</column>
+			</episode>
+		</connection>
+		
+		<!-- 1233 -->
+		<connection>
+			<number>1233</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>33</column>
+			</episode>
+		</connection>
+		
+		<!-- 1234 -->
+		<connection>
+			<number>1234</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>34</column>
+			</episode>
+		</connection>
+		
+		<!-- 1235 -->
+		<connection>
+			<number>1235</number>
+			<episode id="1">
+				<img>img/connectors/junctionDown.png</img>
+				<row>12</row>
+				<column>35</column>
+			</episode>
+		</connection>
+		
+		<!-- 1236 -->
+		<connection>
+			<number>1236</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>36</column>
+			</episode>
+		</connection>
+		
+		<!-- 1237 -->
+		<connection>
+			<number>1237</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>37</column>
+			</episode>
+		</connection>
+		
+		<!-- 1238 -->
+		<connection>
+			<number>1238</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>38</column>
+			</episode>
+		</connection>
+		
+		<!-- 1239 -->
+		<connection>
+			<number>1239</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>39</column>
+			</episode>
+		</connection>
+		
+		<!-- 1240 -->
+		<connection>
+			<number>1240</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>12</row>
+				<column>40</column>
+			</episode>
+		</connection>
+		
+		<!-- 1241 -->
+		<connection>
+			<number>1241</number>
+			<episode id="1">
+				<img>img/connectors/elbowRight.png</img>
+				<row>12</row>
+				<column>41</column>
+			</episode>
+		</connection>
+		
+		<!-- 1307 -->
+		<connection>
+			<number>1307</number>
+			<episode id="1">
+				<img>img/connectors/junctionDown.png</img>
+				<row>13</row>
+				<column>7</column>
+			</episode>
+		</connection>
+		
+		<!-- 1308 -->
+		<connection>
+			<number>1308</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>13</row>
+				<column>8</column>
+			</episode>
+		</connection>
+		
+		<!-- 1309 -->
+		<connection>
+			<number>1309</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>13</row>
+				<column>9</column>
+			</episode>
+		</connection>
+		
+		<!-- 1310 -->
+		<connection>
+			<number>1310</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>13</row>
+				<column>10</column>
+			</episode>
+		</connection>
+		
+		<!-- 1312 -->
+		<connection>
+			<number>1312</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>13</row>
+				<column>12</column>
+			</episode>
+		</connection>
+		
+		<!-- 1313 -->
+		<connection>
+			<number>1313</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>13</row>
+				<column>13</column>
+			</episode>
+		</connection>
+		
+		<!-- 1314 -->
+		<connection>
+			<number>1314</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>13</row>
+				<column>14</column>
+			</episode>
+		</connection>
+		
+		<!-- 1315 -->
+		<connection>
+			<number>1315</number>
+			<episode id="1">
+				<img>img/connectors/junctionDown.png</img>
+				<row>13</row>
+				<column>15</column>
+			</episode>
+		</connection>
+		
+		<!-- 1336 -->
+		<connection>
+			<number>1336</number>
+			<episode id="1">
+				<img>img/connectors/junctionDown.png</img>
+				<row>13</row>
+				<column>36</column>
+			</episode>
+		</connection>
+		
+		<!-- 1404 -->
+		<connection>
+			<number>1404</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>14</row>
+				<column>4</column>
+			</episode>
+		</connection>
+		
+		<!-- 1407 -->
+		<connection>
+			<number>1407</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>14</row>
+				<column>7</column>
+			</episode>
+		</connection>
+		
+		<!-- 1414 -->
+		<connection>
+			<number>1414</number>
+			<episode id="1">
+				<img>img/connectors/elbowLeft.png</img>
+				<row>14</row>
+				<column>14</column>
+			</episode>
+		</connection>
+		
+		<!-- 1415 -->
+		<connection>
+			<number>1415</number>
+			<episode id="1">
+				<img>img/connectors/junctionUp.png</img>
+				<row>14</row>
+				<column>15</column>
+			</episode>
+		</connection>
+		
+		<!-- 1416 -->
+		<connection>
+			<number>1416</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>16</column>
+			</episode>
+		</connection>
+		
+		<!-- 1417 -->
+		<connection>
+			<number>1417</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>17</column>
+			</episode>
+		</connection>
+		
+		<!-- 1418 -->
+		<connection>
+			<number>1418</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>18</column>
+			</episode>
+		</connection>
+		
+		<!-- 1419 -->
+		<connection>
+			<number>1419</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>19</column>
+			</episode>
+		</connection>
+		
+		<!-- 1420 -->
+		<connection>
+			<number>1420</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>20</column>
+			</episode>
+		</connection>
+		
+		<!-- 1421 -->
+		<connection>
+			<number>1421</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>21</column>
+			</episode>
+		</connection>
+		
+		<!-- 1422 -->
+		<connection>
+			<number>1422</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>22</column>
+			</episode>
+		</connection>
+		
+		<!-- 1423 -->
+		<connection>
+			<number>1423</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>23</column>
+			</episode>
+		</connection>
+		
+		<!-- 1424 -->
+		<connection>
+			<number>1424</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>24</column>
+			</episode>
+		</connection>
+		
+		<!-- 1425 -->
+		<connection>
+			<number>1425</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>25</column>
+			</episode>
+		</connection>
+		
+		<!-- 1426 -->
+		<connection>
+			<number>1426</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>26</column>
+			</episode>
+		</connection>
+		
+		<!-- 1427 -->
+		<connection>
+			<number>1427</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>27</column>
+			</episode>
+		</connection>
+		
+		<!-- 1428 -->
+		<connection>
+			<number>1428</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>28</column>
+			</episode>
+		</connection>
+		
+		<!-- 1429 -->
+		<connection>
+			<number>1429</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>29</column>
+			</episode>
+		</connection>
+		
+		<!-- 1430 -->
+		<connection>
+			<number>1430</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>30</column>
+			</episode>
+		</connection>
+		
+		<!-- 1431 -->
+		<connection>
+			<number>1431</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>31</column>
+			</episode>
+		</connection>
+		
+		<!-- 1432 -->
+		<connection>
+			<number>1432</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>32</column>
+			</episode>
+		</connection>
+		
+		<!-- 1433 -->
+		<connection>
+			<number>1433</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>33</column>
+			</episode>
+		</connection>
+		
+		<!-- 1434 -->
+		<connection>
+			<number>1434</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>34</column>
+			</episode>
+		</connection>
+		
+		<!-- 1435 -->
+		<connection>
+			<number>1435</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>35</column>
+			</episode>
+		</connection>
+		
+		<!-- 1436 -->
+		<connection>
+			<number>1436</number>
+			<episode id="1">
+				<img>img/connectors/passthrough.png</img>
+				<row>14</row>
+				<column>36</column>
+			</episode>
+		</connection>
+		
+		<!-- 1437 -->
+		<connection>
+			<number>1437</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>37</column>
+			</episode>
+		</connection>
+		
+		<!-- 1438 -->
+		<connection>
+			<number>1438</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>38</column>
+			</episode>
+		</connection>
+		
+		<!-- 1439 -->
+		<connection>
+			<number>1439</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>39</column>
+			</episode>
+		</connection>
+		
+		<!-- 1440 -->
+		<connection>
+			<number>1440</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>40</column>
+			</episode>
+		</connection>
+		
+		<!-- 1441 -->
+		<connection>
+			<number>1441</number>
+			<episode id="1">
+				<img>img/connectors/passthrough.png</img>
+				<row>14</row>
+				<column>41</column>
+			</episode>
+		</connection>
+		
+		<!-- 1442 -->
+		<connection>
+			<number>1442</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>42</column>
+			</episode>
+		</connection>
+		
+		<!-- 1443 -->
+		<connection>
+			<number>1443</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>43</column>
+			</episode>
+		</connection>
+		
+		<!-- 1444 -->
+		<connection>
+			<number>1444</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>44</column>
+			</episode>
+		</connection>
+		
+		
+		<!-- 1445 -->
+		<connection>
+			<number>1445</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>14</row>
+				<column>45</column>
+			</episode>
+		</connection>
+		
+		<!-- 1446 -->
+		<connection>
+			<number>1446</number>
+			<episode id="1">
+				<img>img/connectors/elbowRight.png</img>
+				<row>14</row>
+				<column>46</column>
+			</episode>
+		</connection>
+		
+		<!-- 1536 -->
+		<connection>
+			<number>1536</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>15</row>
+				<column>36</column>
+			</episode>
+		</connection>
+		
+		<!-- 1541 -->
+		<connection>
+			<number>1541</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>15</row>
+				<column>41</column>
+			</episode>
+		</connection>
+		
+		<!-- 1607 -->
+		<connection>
+			<number>1607</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>16</row>
+				<column>7</column>
+			</episode>
+		</connection>
+		
+		<!-- 1614 -->
+		<connection>
+			<number>1614</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>16</row>
+				<column>14</column>
+			</episode>
+		</connection>
+		
+		<!-- 1636 -->
+		<connection>
+			<number>1636</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>16</row>
+				<column>36</column>
+			</episode>
+		</connection>
+		
+		<!-- 1641 -->
+		<connection>
+			<number>1641</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>16</row>
+				<column>41</column>
+			</episode>
+		</connection>
+		
+		<!-- 1646 -->
+		<connection>
+			<number>1646</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>16</row>
+				<column>46</column>
+			</episode>
+		</connection>
+		
+		<!-- 1707 -->
+		<connection>
+			<number>1707</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>17</row>
+				<column>7</column>
+			</episode>
+		</connection>
+		
+		<!-- 1714 -->
+		<connection>
+			<number>1714</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>17</row>
+				<column>14</column>
+			</episode>
+		</connection>
+		
+		<!-- 1736 -->
+		<connection>
+			<number>1736</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>17</row>
+				<column>36</column>
+			</episode>
+		</connection>
+		
+		<!-- 1741 -->
+		<connection>
+			<number>1742</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>17</row>
+				<column>41</column>
+			</episode>
+		</connection>
+		
+		<!-- 1746 -->
+		<connection>
+			<number>1746</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>17</row>
+				<column>46</column>
+			</episode>
+		</connection>
+		
+		<!-- 1807 -->
+		<connection>
+			<number>1807</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>18</row>
+				<column>7</column>
+			</episode>
+		</connection>
+		
+		<!-- 1814 -->
+		<connection>
+			<number>1814</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>18</row>
+				<column>14</column>
+			</episode>
+		</connection>
+		
+		<!-- 1823 -->
+		<connection>
+			<number>1823</number>
+			<episode id="1">
+				<img>img/connectors/elbowLeft.png</img>
+				<row>18</row>
+				<column>23</column>
+			</episode>
+		</connection>
+		
+		<!-- 1824 -->
+		<connection>
+			<number>1824</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>18</row>
+				<column>24</column>
+			</episode>
+		</connection>
+		
+		<!-- 1825 -->
+		<connection>
+			<number>1825</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>18</row>
+				<column>25</column>
+			</episode>
+		</connection>
+		
+		<!-- 1826 -->
+		<connection>
+			<number>1826</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>18</row>
+				<column>26</column>
+			</episode>
+		</connection>
+		
+		<!-- 1827 -->
+		<connection>
+			<number>1827</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>18</row>
+				<column>27</column>
+			</episode>
+		</connection>
+		
+		<!-- 1828 -->
+		<connection>
+			<number>1828</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>18</row>
+				<column>28</column>
+			</episode>
+		</connection>
+		
+		<!-- 1829 -->
+		<connection>
+			<number>1829</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>18</row>
+				<column>29</column>
+			</episode>
+		</connection>
+		
+		<!-- 1830 -->
+		<connection>
+			<number>1830</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>18</row>
+				<column>30</column>
+			</episode>
+		</connection>
+		
+		<!-- 1831 -->
+		<connection>
+			<number>1831</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>18</row>
+				<column>31</column>
+			</episode>
+		</connection>
+		
+		<!-- 1832 -->
+		<connection>
+			<number>1832</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>18</row>
+				<column>32</column>
+			</episode>
+		</connection>
+		
+		<!-- 1833 -->
+		<connection>
+			<number>1833</number>
+			<episode id="1">
+				<img>img/connectors/junctionUp.png</img>
+				<row>18</row>
+				<column>33</column>
+			</episode>
+		</connection>
+		
+		<!-- 1834 -->
+		<connection>
+			<number>1834</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>18</row>
+				<column>34</column>
+			</episode>
+		</connection>
+		
+		<!-- 1835 -->
+		<connection>
+			<number>1835</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>18</row>
+				<column>35</column>
+			</episode>
+		</connection>
+		
+		<!-- 1836 -->
+		<connection>
+			<number>1836</number>
+			<episode id="1">
+				<img>img/connectors/passthrough.png</img>
+				<row>18</row>
+				<column>36</column>
+			</episode>
+		</connection>
+		
+		<!-- 1837 -->
+		<connection>
+			<number>1837</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>18</row>
+				<column>37</column>
+			</episode>
+		</connection>
+		
+		<!-- 1838 -->
+		<connection>
+			<number>1838</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>18</row>
+				<column>38</column>
+			</episode>
+		</connection>
+		
+		<!-- 1839 -->
+		<connection>
+			<number>1839</number>
+			<episode id="1">
+				<img>img/connectors/elbowRight.png</img>
+				<row>18</row>
+				<column>39</column>
+			</episode>
+		</connection>
+		
+		<!-- 1841 -->
+		<connection>
+			<number>1841</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>18</row>
+				<column>41</column>
+			</episode>
+		</connection>
+		
+		<!-- 1846 -->
+		<connection>
+			<number>1846</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>18</row>
+				<column>46</column>
+			</episode>
+		</connection>
+		
+		<!-- 1907 -->
+		<connection>
+			<number>1907</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>19</row>
+				<column>7</column>
+			</episode>
+		</connection>
+		
+		<!-- 1914 -->
+		<connection>
+			<number>1914</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>19</row>
+				<column>14</column>
+			</episode>
+		</connection>
+		
+		<!-- 1922 -->
+		<connection>
+			<number>1922</number>
+			<episode id="1">
+				<img>img/connectors/junctionDown.png</img>
+				<row>19</row>
+				<column>22</column>
+			</episode>
+		</connection>
+		
+		<!-- 1936 -->
+		<connection>
+			<number>1936</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>19</row>
+				<column>36</column>
+			</episode>
+		</connection>
+		
+		<!-- 1941 -->
+		<connection>
+			<number>1941</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>19</row>
+				<column>41</column>
+			</episode>
+		</connection>
+		
+		<!-- 1946 -->
+		<connection>
+			<number>1946</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>19</row>
+				<column>46</column>
+			</episode>
+		</connection>
+		
+		<!-- 2007 -->
+		<connection>
+			<number>2007</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>20</row>
+				<column>7</column>
+			</episode>
+		</connection>
+		
+		<!-- 2014 -->
+		<connection>
+			<number>2014</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>20</row>
+				<column>14</column>
+			</episode>
+		</connection>
+		
+		<!-- 2022 -->
+		<connection>
+			<number>2022</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>20</row>
+				<column>22</column>
+			</episode>
+		</connection>
+		
+		<!-- 2036 -->
+		<connection>
+			<number>2036</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>20</row>
+				<column>36</column>
+			</episode>
+		</connection>
+		
+		<!-- 2039 -->
+		<connection>
+			<number>2039</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>20</row>
+				<column>39</column>
+			</episode>
+		</connection>
+		
+		<!-- 2041 -->
+		<connection>
+			<number>2041</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>20</row>
+				<column>41</column>
+			</episode>
+		</connection>
+		
+		<!-- 2046 -->
+		<connection>
+			<number>2046</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>20</row>
+				<column>46</column>
+			</episode>
+		</connection>
+		
+		
+		<!-- 2107 -->
+		<connection>
+			<number>2107</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>21</row>
+				<column>07</column>
+			</episode>
+		</connection>
+		
+		<!-- 2114 -->
+		<connection>
+			<number>2114</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>21</row>
+				<column>14</column>
+			</episode>
+		</connection>
+		
+		<!-- 2122 -->
+		<connection>
+			<number>2122</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>21</row>
+				<column>22</column>
+			</episode>
+		</connection>
+		
+		<!-- 2136 -->
+		<connection>
+			<number>2136</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>21</row>
+				<column>36</column>
+			</episode>
+		</connection>
+		
+		<!-- 2141 -->
+		<connection>
+			<number>2141</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>21</row>
+				<column>41</column>
+			</episode>
+		</connection>
+		
+		<!-- 2146 -->
+		<connection>
+			<number>2146</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>21</row>
+				<column>46</column>
+			</episode>
+		</connection>
+		
+		<!-- 2207 -->
+		<connection>
+			<number>2207</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>22</row>
+				<column>7</column>
+			</episode>
+		</connection>
+		
+		<!-- 2214 -->
+		<connection>
+			<number>2214</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>22</row>
+				<column>14</column>
+			</episode>
+		</connection>
+		
+		<!-- 2221 -->
+		<connection>
+			<number>2221</number>
+			<episode id="1">
+				<img>img/connectors/junctionDown.png</img>
+				<row>22</row>
+				<column>21</column>
+			</episode>
+		</connection>
+		
+		<!-- 2236 -->
+		<connection>
+			<number>2236</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>22</row>
+				<column>36</column>
+			</episode>
+		</connection>
+		
+		<!-- 2239 -->
+		<connection>
+			<number>2239</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>22</row>
+				<column>39</column>
+			</episode>
+		</connection>
+		
+		<!-- 2241 -->
+		<connection>
+			<number>2241</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>22</row>
+				<column>41</column>
+			</episode>
+		</connection>
+		
+		<!-- 2246 -->
+		<connection>
+			<number>2246</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>22</row>
+				<column>46</column>
+			</episode>
+		</connection>
+		
+		<!-- 2307 -->
+		<connection>
+			<number>2307</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>23</row>
+				<column>7</column>
+			</episode>
+		</connection>
+	
+		<!-- 2314 -->
+		<connection>
+			<number>2314</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>23</row>
+				<column>14</column>
+			</episode>
+		</connection>
+	
+		<!-- 2321 -->
+		<connection>
+			<number>2321</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>23</row>
+				<column>21</column>
+			</episode>
+		</connection>
+	
+		<!-- 2336 -->
+		<connection>
+			<number>2336</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>23</row>
+				<column>36</column>
+			</episode>
+		</connection>
+	
+		<!-- 2340 -->
+		<connection>
+			<number>2340</number>
+			<episode id="1">
+				<img>img/connectors/junctionDown.png</img>
+				<row>23</row>
+				<column>40</column>
+			</episode>
+		</connection>
+	
+		<!-- 2346 -->
+		<connection>
+			<number>2346</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>23</row>
+				<column>46</column>
+			</episode>
+		</connection>
+		
+		<!-- 2407 -->
+		<connection>
+			<number>2407</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>24</row>
+				<column>7</column>
+			</episode>
+		</connection>
+	
+		<!-- 2414 -->
+		<connection>
+			<number>2414</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>24</row>
+				<column>14</column>
+			</episode>
+		</connection>
+	
+		<!-- 2421 -->
+		<connection>
+			<number>2421</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>24</row>
+				<column>21</column>
+			</episode>
+		</connection>
+	
+		<!-- 2436 -->
+		<connection>
+			<number>2436</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>24</row>
+				<column>36</column>
+			</episode>
+		</connection>
+		
+		<!-- 2438 -->
+		<connection>
+			<number>2438</number>
+			<episode id="1">
+				<img>img/connectors/elbowLeft.png</img>
+				<row>24</row>
+				<column>38</column>
+			</episode>
+		</connection>
+		
+		<!-- 2439 -->
+		<connection>
+			<number>2439</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>24</row>
+				<column>39</column>
+			</episode>
+		</connection>
+	
+		<!-- 2440 -->
+		<connection>
+			<number>2440</number>
+			<episode id="1">
+				<img>img/connectors/junctionUp.png</img>
+				<row>24</row>
+				<column>40</column>
+			</episode>
+		</connection>
+		
+		<!-- 2441 -->
+		<connection>
+			<number>2441</number>
+			<episode id="1">
+				<img>img/connectors/elbowRight.png</img>
+				<row>24</row>
+				<column>41</column>
+			</episode>
+		</connection>
+	
+		<!-- 2446 -->
+		<connection>
+			<number>2446</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>24</row>
+				<column>46</column>
+			</episode>
+		</connection>
+		
+		<!-- 2507 -->
+		<connection>
+			<number>2507</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>25</row>
+				<column>7</column>
+			</episode>
+		</connection>
+		
+		<!-- 2514 -->
+		<connection>
+			<number>2514</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>25</row>
+				<column>14</column>
+			</episode>
+		</connection>
+		
+		<!-- 2536 -->
+		<connection>
+			<number>2536</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>25</row>
+				<column>36</column>
+			</episode>
+		</connection>
+		
+		<!-- 2542 -->
+		<connection>
+			<number>2542</number>
+			<episode id="1">
+				<img>img/connectors/junctionDown.png</img>
+				<row>25</row>
+				<column>42</column>
+			</episode>
+		</connection>
+		
+		<!-- 2546 -->
+		<connection>
+			<number>2546</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>25</row>
+				<column>46</column>
+			</episode>
+		</connection>
+		
+		<!-- 2607 -->
+		<connection>
+			<number>2607</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>26</row>
+				<column>7</column>
+			</episode>
+		</connection>
+		
+		<!-- 2615 -->
+		<connection>
+			<number>2615</number>
+			<episode id="1">
+				<img>img/connectors/junctionDown.png</img>
+				<row>26</row>
+				<column>15</column>
+			</episode>
+		</connection>
+		
+		<!-- 2617 -->
+		<connection>
+			<number>2617</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>26</row>
+				<column>17</column>
+			</episode>
+		</connection>
+		
+		<!-- 2621 -->
+		<connection>
+			<number>2621</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>26</row>
+				<column>21</column>
+			</episode>
+		</connection>
+		
+		<!-- 2636 -->
+		<connection>
+			<number>2636</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>26</row>
+				<column>36</column>
+			</episode>
+		</connection>
+		
+		<!-- 2638 -->
+		<connection>
+			<number>2638</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>26</row>
+				<column>38</column>
+			</episode>
+		</connection>
+		
+		<!-- 2642 -->
+		<connection>
+			<number>2642</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>26</row>
+				<column>42</column>
+			</episode>
+		</connection>
+		
+		<!-- 2646 -->
+		<connection>
+			<number>2646</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>26</row>
+				<column>46</column>
+			</episode>
+		</connection>
+		
+		<!-- 2707 -->
+		<connection>
+			<number>2707</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>27</row>
+				<column>7</column>
+			</episode>
+		</connection>
+		
+		<!-- 2715 -->
+		<connection>
+			<number>2715</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>27</row>
+				<column>15</column>
+			</episode>
+		</connection>
+		
+		<!-- 2718 -->
+		<connection>
+			<number>2718</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>27</row>
+				<column>18</column>
+			</episode>
+		</connection>
+		
+		<!-- 2721 -->
+		<connection>
+			<number>2721</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>27</row>
+				<column>21</column>
+			</episode>
+		</connection>
+		
+		<!-- 2737 -->
+		<connection>
+			<number>2737</number>
+			<episode id="1">
+				<img>img/connectors/junctionDown.png</img>
+				<row>27</row>
+				<column>37</column>
+			</episode>
+		</connection>
+		
+		<!-- 2742 -->
+		<connection>
+			<number>2742</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>27</row>
+				<column>42</column>
+			</episode>
+		</connection>
+		
+		<!-- 2746 -->
+		<connection>
+			<number>2746</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>27</row>
+				<column>46</column>
+			</episode>
+		</connection>
+		
+		<!-- 2808 -->
+		<connection>
+			<number>2808</number>
+			<episode id="1">
+				<img>img/connectors/junctionDown.png</img>
+				<row>28</row>
+				<column>8</column>
+			</episode>
+		</connection>
+		
+		<!-- 2809 -->
+		<connection>
+			<number>2809</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>28</row>
+				<column>9</column>
+			</episode>
+		</connection>
+		
+		<!-- 2811 -->
+		<connection>
+			<number>2811</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>28</row>
+				<column>11</column>
+			</episode>
+		</connection>
+		
+		<!-- 2812 -->
+		<connection>
+			<number>2812</number>
+			<episode id="1">
+				<img>img/connectors/junctionDown.png</img>
+				<row>28</row>
+				<column>12</column>
+			</episode>
+		</connection>
+		
+		<!-- 2815 -->
+		<connection>
+			<number>2815</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>28</row>
+				<column>15</column>
+			</episode>
+		</connection>
+		
+		<!-- 2818 -->
+		<connection>
+			<number>2818</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>28</row>
+				<column>18</column>
+			</episode>
+		</connection>
+		
+		<!-- 2821 -->
+		<connection>
+			<number>2821</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>28</row>
+				<column>21</column>
+			</episode>
+		</connection>
+		
+		<!-- 2837 -->
+		<connection>
+			<number>2837</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>28</row>
+				<column>37</column>
+			</episode>
+		</connection>
+		
+		<!-- 2839 -->
+		<connection>
+			<number>2839</number>
+			<episode id="1">
+				<img>img/connectors/elbowLeft.png</img>
+				<row>28</row>
+				<column>39</column>
+			</episode>
+		</connection>
+		
+		<!-- 2840 -->
+		<connection>
+			<number>2840</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>28</row>
+				<column>40</column>
+			</episode>
+		</connection>
+		
+		<!-- 2841 -->
+		<connection>
+			<number>2841</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>28</row>
+				<column>41</column>
+			</episode>
+		</connection>
+		
+		<!-- 2842 -->
+		<connection>
+			<number>2842</number>
+			<episode id="1">
+				<img>img/connectors/passthrough.png</img>
+				<row>28</row>
+				<column>42</column>
+			</episode>
+		</connection>
+		
+		<!-- 2843 -->
+		<connection>
+			<number>2843</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>28</row>
+				<column>43</column>
+			</episode>
+		</connection>
+		
+		<!-- 2844 -->
+		<connection>
+			<number>2844</number>
+			<episode id="1">
+				<img>img/connectors/junctionDown.png</img>
+				<row>28</row>
+				<column>44</column>
+			</episode>
+		</connection>
+		
+		<!-- 2845 -->
+		<connection>
+			<number>2845</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>28</row>
+				<column>45</column>
+			</episode>
+		</connection>
+		
+		<!-- 2846 -->
+		<connection>
+			<number>2846</number>
+			<episode id="1">
+				<img>img/connectors/junctionUp.png</img>
+				<row>28</row>
+				<column>46</column>
+			</episode>
+		</connection>
+		
+		<!-- 2847 -->
+		<connection>
+			<number>2847</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>28</row>
+				<column>47</column>
+			</episode>
+		</connection>
+		
+		<!-- 2848 -->
+		<connection>
+			<number>2848</number>
+			<episode id="1">
+				<img>img/connectors/junctionDown.png</img>
+				<row>28</row>
+				<column>48</column>
+			</episode>
+		</connection>
+		
+		<!-- 2849 -->
+		<connection>
+			<number>2849</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>28</row>
+				<column>49</column>
+			</episode>
+		</connection>
+		
+		<!-- 2850 -->
+		<connection>
+			<number>2850</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>28</row>
+				<column>50</column>
+			</episode>
+		</connection>
+		
+		<!-- 2851 -->
+		<connection>
+			<number>2851</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>28</row>
+				<column>51</column>
+			</episode>
+		</connection>
+		
+		<!-- 2852 -->
+		<connection>
+			<number>2852</number>
+			<episode id="1">
+				<img>img/connectors/elbowRight.png</img>
+				<row>28</row>
+				<column>52</column>
+			</episode>
+		</connection>
+		
+		<!-- 2908 -->
+		<connection>
+			<number>2908</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>29</row>
+				<column>8</column>
+			</episode>
+		</connection>
+		
+		<!-- 2912 -->
+		<connection>
+			<number>2912</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>29</row>
+				<column>12</column>
+			</episode>
+		</connection>
+		
+		<!-- 2915 -->
+		<connection>
+			<number>2915</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>29</row>
+				<column>15</column>
+			</episode>
+		</connection>
+		
+		<!-- 2918 -->
+		<connection>
+			<number>2918</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>29</row>
+				<column>18</column>
+			</episode>
+		</connection>
+		
+		<!-- 2929 -->
+		<connection>
+			<number>2929</number>
+			<episode id="1">
+				<img>img/connectors/junctionDown.png</img>
+				<row>29</row>
+				<column>29</column>
+			</episode>
+		</connection>
+		
+		<!-- 2938 -->
+		<connection>
+			<number>2938</number>
+			<episode id="1">
+				<img>img/connectors/junctionDown.png</img>
+				<row>29</row>
+				<column>38</column>
+			</episode>
+		</connection>
+		
+		<!-- 2943 -->
+		<connection>
+			<number>2943</number>
+			<episode id="1">
+				<img>img/connectors/junctionDown.png</img>
+				<row>29</row>
+				<column>43</column>
+			</episode>
+		</connection>
+		
+		<!-- 3008 -->
+		<connection>
+			<number>3008</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>30</row>
+				<column>8</column>
+			</episode>
+		</connection>
+		
+		<!-- 3012 -->
+		<connection>
+			<number>3012</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>30</row>
+				<column>12</column>
+			</episode>
+		</connection>
+		
+		<!-- 3015 -->
+		<connection>
+			<number>3015</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>30</row>
+				<column>15</column>
+			</episode>
+		</connection>
+		
+		<!-- 3021 -->
+		<connection>
+			<number>3021</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>30</row>
+				<column>21</column>
+			</episode>
+		</connection>
+		
+		<!-- 3029 -->
+		<connection>
+			<number>3029</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>30</row>
+				<column>29</column>
+			</episode>
+		</connection>
+		
+		<!-- 3038 -->
+		<connection>
+			<number>3038</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>30</row>
+				<column>38</column>
+			</episode>
+		</connection>
+		
+		<!-- 3043 -->
+		<connection>
+			<number>3043</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>30</row>
+				<column>43</column>
+			</episode>
+		</connection>
+		
+		<!-- 3045 -->
+		<connection>
+			<number>3045</number>
+			<episode id="1">
+				<img>img/connectors/elbowLeft.png</img>
+				<row>30</row>
+				<column>45</column>
+			</episode>
+		</connection>
+		
+		<!-- 3046 -->
+		<connection>
+			<number>3046</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>30</row>
+				<column>46</column>
+			</episode>
+		</connection>
+		
+		<!-- 3047 -->
+		<connection>
+			<number>3047</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>30</row>
+				<column>47</column>
+			</episode>
+		</connection>
+		
+		<!-- 3048 -->
+		<connection>
+			<number>3048</number>
+			<episode id="1">
+				<img>img/connectors/junctionUp.png</img>
+				<row>30</row>
+				<column>48</column>
+			</episode>
+		</connection>
+		
+		<!-- 3049 -->
+		<connection>
+			<number>3049</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>30</row>
+				<column>49</column>
+			</episode>
+		</connection>
+		
+		<!-- 3050 -->
+		<connection>
+			<number>3050</number>
+			<episode id="1">
+				<img>img/connectors/elbowRight.png</img>
+				<row>30</row>
+				<column>50</column>
+			</episode>
+		</connection>
+		
+		<!-- 3052 -->
+		<connection>
+			<number>3052</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>30</row>
+				<column>52</column>
+			</episode>
+		</connection>
+		
+		<!-- 3108 -->
+		<connection>
+			<number>3108</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>31</row>
+				<column>8</column>
+			</episode>
+		</connection>
+		
+		<!-- 3112 -->
+		<connection>
+			<number>3112</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>31</row>
+				<column>12</column>
+			</episode>
+		</connection>
+		
+		<!-- 3115 -->
+		<connection>
+			<number>3115</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>31</row>
+				<column>15</column>
+			</episode>
+		</connection>
+		
+		<!-- 3121 -->
+		<connection>
+			<number>3121</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>31</row>
+				<column>21</column>
+			</episode>
+		</connection>
+		
+		<!-- 3129 -->
+		<connection>
+			<number>3129</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>31</row>
+				<column>29</column>
+			</episode>
+		</connection>
+		
+		<!-- 3136 -->
+		<connection>
+			<number>3136</number>
+			<episode id="1">
+				<img>img/connectors/elbowLeft.png</img>
+				<row>31</row>
+				<column>36</column>
+			</episode>
+		</connection>
+		
+		<!-- 3137 -->
+		<connection>
+			<number>3137</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>31</row>
+				<column>37</column>
+			</episode>
+		</connection>
+		
+		<!-- 3138 -->
+		<connection>
+			<number>3138</number>
+			<episode id="1">
+				<img>img/connectors/junctionCross.png</img>
+				<row>31</row>
+				<column>38</column>
+			</episode>
+		</connection>
+		
+		<!-- 3139 -->
+		<connection>
+			<number>3139</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>31</row>
+				<column>39</column>
+			</episode>
+		</connection>
+		
+		<!-- 3140 -->
+		<connection>
+			<number>3140</number>
+			<episode id="1">
+				<img>img/connectors/elbowRight.png</img>
+				<row>31</row>
+				<column>40</column>
+			</episode>
+			<episode id="3">
+				<img>img/connectors/horizontal.png</img>
+			</episode>
+		</connection>
+		
+		<!-- 3141 -->
+		<connection>
+			<number>3141</number>
+			<episode id="3">
+				<img>img/connectors/horizontal.png</img>
+				<row>31</row>
+				<column>41</column>
+			</episode>
+		</connection>
+		
+		<!-- 3142 -->
+		<connection>
+			<number>3142</number>
+			<episode id="3">
+				<img>img/connectors/elbowRight.png</img>
+				<row>31</row>
+				<column>42</column>
+			</episode>
+		</connection>
+		
+		<!-- 3146 -->
+		<connection>
+			<number>3146</number>
+			<episode id="1">
+				<img>img/connectors/junctionDown.png</img>
+				<row>31</row>
+				<column>46</column>
+			</episode>
+		</connection>
+
+		<!-- 3208 -->
+		<connection>
+			<number>3208</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>32</row>
+				<column>8</column>
+			</episode>
+		</connection>
+		
+		<!-- 3211 -->
+		<connection>
+			<number>3211</number>
+			<episode id="1">
+				<img>img/connectors/elbowLeft.png</img>
+				<row>32</row>
+				<column>11</column>
+			</episode>
+		</connection>
+		
+		<!-- 3212 -->
+		<connection>
+			<number>3212</number>
+			<episode id="1">
+				<img>img/connectors/junctionUp.png</img>
+				<row>32</row>
+				<column>12</column>
+			</episode>
+		</connection>
+		
+		<!-- 3213 -->
+		<connection>
+			<number>3213</number>
+			<episode id="1">
+				<img>img/connectors/elbowRight.png</img>
+				<row>32</row>
+				<column>13</column>
+			</episode>
+		</connection>
+		
+		<!-- 3215 -->
+		<connection>
+			<number>3215</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>32</row>
+				<column>15</column>
+			</episode>
+		</connection>
+		
+		<!-- 3217 -->
+		<connection>
+			<number>3217</number>
+			<episode id="1">
+				<img>img/connectors/elbowLeft.png</img>
+				<row>32</row>
+				<column>17</column>
+			</episode>
+			<episode id="7" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3218 -->
+		<connection>
+			<number>3218</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>32</row>
+				<column>18</column>
+			</episode>
+			<episode id="7" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3219 -->
+		<connection>
+			<number>3219</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>32</row>
+				<column>19</column>
+			</episode>
+			<episode id="7">
+				<img>img/connectors/elbowLeft.png</img>
+			</episode>
+		</connection>
+		
+		<!-- 3220 -->
+		<connection>
+			<number>3220</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>32</row>
+				<column>20</column>
+			</episode>
+		</connection>
+		
+		<!-- 3221 -->
+		<connection>
+			<number>3221</number>
+			<episode id="1">
+				<img>img/connectors/junctionUp.png</img>
+				<row>32</row>
+				<column>21</column>
+			</episode>
+		</connection>
+		
+		<!-- 3222 -->
+		<connection>
+			<number>3222</number>
+			<episode id="1">
+				<img>img/connectors/elbowRight.png</img>
+				<row>32</row>
+				<column>22</column>
+			</episode>
+		</connection>
+		
+		<!-- 3224 -->
+		<connection>
+			<number>3224</number>
+			<episode id="1">
+				<img>img/connectors/elbowLeft.png</img>
+				<row>32</row>
+				<column>24</column>
+			</episode>
+		</connection>
+		
+		<!-- 3225 -->
+		<connection>
+			<number>3225</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>32</row>
+				<column>25</column>
+			</episode>
+		</connection>
+		
+		<!-- 3226 -->
+		<connection>
+			<number>3226</number>
+			<episode id="1">
+				<img>img/connectors/junctionDown.png</img>
+				<row>32</row>
+				<column>26</column>
+			</episode>
+		</connection>
+		
+		<!-- 3227 -->
+		<connection>
+			<number>3227</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>32</row>
+				<column>27</column>
+			</episode>
+		</connection>
+		
+		<!-- 3228 -->
+		<connection>
+			<number>3228</number>
+			<episode id="1">
+				<img>img/connectors/junctionDown.png</img>
+				<row>32</row>
+				<column>28</column>
+			</episode>
+		</connection>
+		
+		<!-- 3229 -->
+		<connection>
+			<number>3229</number>
+			<episode id="1">
+				<img>img/connectors/junctionUp.png</img>
+				<row>32</row>
+				<column>29</column>
+			</episode>
+		</connection>
+		
+		<!-- 3230 -->
+		<connection>
+			<number>3230</number>
+			<episode id="1">
+				<img>img/connectors/junctionDown.png</img>
+				<row>32</row>
+				<column>30</column>
+			</episode>
+		</connection>
+		
+		<!-- 3231 -->
+		<connection>
+			<number>3231</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>32</row>
+				<column>31</column>
+			</episode>
+		</connection>
+		
+		<!-- 3232 -->
+		<connection>
+			<number>3232</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>32</row>
+				<column>32</column>
+			</episode>
+		</connection>
+		
+		<!-- 3233 -->
+		<connection>
+			<number>3233</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>32</row>
+				<column>33</column>
+			</episode>
+		</connection>
+		
+		<!-- 3234 -->
+		<connection>
+			<number>3234</number>
+			<episode id="1">
+				<img>img/connectors/elbowRight.png</img>
+				<row>32</row>
+				<column>34</column>
+			</episode>
+		</connection>
+		
+		<!-- 3236 -->
+		<connection>
+			<number>3236</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>32</row>
+				<column>36</column>
+			</episode>
+		</connection>
+		
+		<!-- 3238 -->
+		<connection>
+			<number>3238</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>32</row>
+				<column>38</column>
+			</episode>
+		</connection>
+		
+		<!-- 3240 -->
+		<connection>
+			<number>3240</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>32</row>
+				<column>40</column>
+			</episode>
+			<episode id="3">
+				<img>img/connectors/elbowLeft.png</img>
+			</episode>
+		</connection>
+		
+		<!-- 3241 -->
+		<connection>
+			<number>3241</number>
+			<episode id="3">
+				<img>img/connectors/horizontal.png</img>
+				<row>32</row>
+				<column>41</column>
+			</episode>
+		</connection>
+		
+		<!-- 3242 -->
+		<connection>
+			<number>3242</number>
+			<episode id="3">
+				<img>img/connectors/passthrough.png</img>
+				<row>32</row>
+				<column>42</column>
+			</episode>
+		</connection>
+		
+		<!-- 3243 -->
+		<connection>
+			<number>3243</number>
+			<episode id="3">
+				<img>img/connectors/horizontal.png</img>
+				<row>32</row>
+				<column>43</column>
+			</episode>
+		</connection>
+		
+		<!-- 3244 -->
+		<connection>
+			<number>3244</number>
+			<episode id="3">
+				<img>img/connectors/horizontal.png</img>
+				<row>32</row>
+				<column>44</column>
+			</episode>
+		</connection>
+		
+		<!-- 3245 -->
+		<connection>
+			<number>3245</number>
+			<episode id="1">
+				<img>img/connectors/elbowLeft.png</img>
+				<row>32</row>
+				<column>45</column>
+			</episode>
+			<episode id="3">
+				<img>img/connectors/horizontal.png</img>
+			</episode>
+		</connection>
+		
+		<!-- 3246 -->
+		<connection>
+			<number>3246</number>
+			<episode id="1">
+				<img>img/connectors/junctionUp.png</img>
+				<row>32</row>
+				<column>46</column>
+			</episode>
+		</connection>
+		
+		<!-- 3247 -->
+		<connection>
+			<number>3247</number>
+			<episode id="1">
+				<img>img/connectors/elbowRight.png</img>
+				<row>32</row>
+				<column>47</column>
+			</episode>
+		</connection>
+		
+		
+		<!-- 3307 -->
+		<connection>
+			<number>3307</number>
+			<episode id="1">
+				<img>img/connectors/junctionDown.png</img>
+				<row>33</row>
+				<column>7</column>
+			</episode>
+		</connection>
+		
+		<!-- 3314 -->
+		<connection>
+			<number>3314</number>
+			<episode id="1">
+				<img>img/connectors/junctionDown.png</img>
+				<row>33</row>
+				<column>14</column>
+			</episode>
+		</connection>
+		
+		<!-- 3316 -->
+		<connection>
+			<number>3316</number>
+			<episode id="1">
+				<img>img/connectors/horizontal.png</img>
+				<row>33</row>
+				<column>16</column>
+			</episode>
+			<episode id="7">
+				<img>img/connectors/horizontal.png</img>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+				<row>33</row>
+				<column>16</column>
+			</episode>
+		</connection>
+		
+		<!-- 3326 -->
+		<connection>
+			<number>3326</number>
+			<episode id="3">
+				<img>img/connectors/vertical.png</img>
+				<row>33</row>
+				<column>26</column>
+			</episode>
+		</connection>
+		
+		<!-- 3333 -->
+		<connection>
+			<number>3333</number>
+			<episode id="1">
+				<img>img/connectors/junctionDown.png</img>
+				<row>33</row>
+				<column>33</column>
+			</episode>
+		</connection>
+		
+		<!-- 3335 -->
+		<connection>
+			<number>3335</number>
+			<episode id="2">
+				<img>img/connectors/horizontal.png</img>
+				<row>33</row>
+				<column>35</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="3">
+				<img>img/connectors/junctionDown.png</img>
+				<highlight>img/connectors/junctionDown_haloDown.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3339 -->
+		<connection>
+			<number>3339</number>
+			<episode id="3">
+				<img>img/connectors/horizontal.png</img>
+				<row>33</row>
+				<column>39</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="8">
+				<img>img/connectors/junctionDown.png</img>
+				<highlight>img/connectors/junctionDown_haloDown.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3343 -->
+		<connection>
+			<number>3343</number>
+			<episode id="7">
+				<img>img/connectors/horizontal.png</img>
+				<row>33</row>
+				<column>43</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3344 -->
+		<connection>
+			<number>3344</number>
+			<episode id="7">
+				<img>img/connectors/horizontal.png</img>
+				<row>33</row>
+				<column>44</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3345 -->
+		<connection>
+			<number>3345</number>
+			<episode id="7">
+				<img>img/connectors/horizontal.png</img>
+				<row>33</row>
+				<column>45</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="8">
+				<img>img/connectors/junctionDown.png</img>
+				<highlight>img/connectors/junctionDown_haloDown.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3346 -->
+		<connection>
+			<number>3346</number>
+			<episode id="7">
+				<img>img/connectors/horizontal.png</img>
+				<row>33</row>
+				<column>46</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		
+		<!-- 3347 -->
+		<connection>
+			<number>3347</number>
+			<episode id="5">
+				<img>img/connectors/vertical.png</img>
+				<row>33</row>
+				<column>47</column>
+			</episode>
+			<episode id="7" type="none">
+			</episode>
+		</connection>
+		
+		
+		<!-- 3407 -->
+		<connection>
+			<number>3407</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>34</row>
+				<column>7</column>
+			</episode>
+		</connection>
+		
+		<!-- 3414 -->
+		<connection>
+			<number>3414</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>34</row>
+				<column>14</column>
+			</episode>
+		</connection>
+		
+		<!-- 3422 -->
+		<connection>
+			<number>3422</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>34</row>
+				<column>22</column>
+			</episode>
+		</connection>
+		
+		<!-- 3426 -->
+		<connection>
+			<number>3426</number>
+			<episode id="3">
+				<img>img/connectors/vertical.png</img>
+				<row>34</row>
+				<column>26</column>
+			</episode>
+		</connection>
+		
+		<!-- 3432 -->
+		<connection>
+			<number>3432</number>
+			<episode id="1">
+				<img>img/connectors/elbowLeft.png</img>
+				<row>34</row>
+				<column>32</column>
+			</episode>
+		</connection>
+		
+		<!-- 3433 -->
+		<connection>
+			<number>3433</number>
+			<episode id="1">
+				<img>img/connectors/junctionUp.png</img>
+				<row>34</row>
+				<column>33</column>
+			</episode>
+		</connection>
+		
+		<!-- 3434 -->
+		<connection>
+			<number>3434</number>
+			<episode id="1">
+				<img>img/connectors/elbowRight.png</img>
+				<row>34</row>
+				<column>34</column>
+			</episode>
+		</connection>
+		
+		<!-- 3435 -->
+		<connection>
+			<number>3435</number>
+			<episode id="3">
+				<img>img/connectors/vertical.png</img>
+				<row>34</row>
+				<column>35</column>
+				<highlight>img/connectors/vertical_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3438 -->
+		<connection>
+			<number>3438</number>
+			<episode id="8">
+				<img>img/connectors/elbowLeft.png</img>
+				<row>34</row>
+				<column>38</column>
+				<highlight>img/connectors/elbowLeft_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3439 -->
+		<connection>
+			<number>3439</number>
+			<episode id="8">
+				<img>img/connectors/junctionUp.png</img>
+				<row>34</row>
+				<column>39</column>
+				<highlight>img/connectors/junctionUp_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3440 -->
+		<connection>
+			<number>3440</number>
+			<episode id="8">
+				<img>img/connectors/elbowRight.png</img>
+				<row>34</row>
+				<column>40</column>
+				<highlight>img/connectors/elbowRight_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3445 -->
+		<connection>
+			<number>3445</number>
+			<episode id="8">
+				<img>img/connectors/vertical.png</img>
+				<row>34</row>
+				<column>45</column>
+				<highlight>img/connectors/vertical_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3447 -->
+		<connection>
+			<number>3447</number>
+			<episode id="5">
+				<img>img/connectors/vertical.png</img>
+				<row>34</row>
+				<column>47</column>
+			</episode>
+			<episode id="7" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3508 -->
+		<connection>
+			<number>3508</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>8</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3509 -->
+		<connection>
+			<number>3509</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>9</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3510 -->
+		<connection>
+			<number>3510</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>10</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3511 -->
+		<connection>
+			<number>3511</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>11</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3512 -->
+		<connection>
+			<number>3512</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>12</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3513 -->
+		<connection>
+			<number>3513</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>13</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3514 -->
+		<connection>
+			<number>3514</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>35</row>
+				<column>14</column>
+			</episode>
+			<episode id="5">
+				<img>img/connectors/passthrough.png</img>
+				<highlight>img/connectors/passthrough_horz-halo.png</highlight>
+			</episode>
+			<episode id="6">
+				<img>img/connectors/vertical.png</img>
+				<highlight type="none"></highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3515 -->
+		<connection>
+			<number>3515</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>15</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		
+		<!-- 3516 -->
+		<connection>
+			<number>3516</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>16</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		
+		<!-- 3517 -->
+		<connection>
+			<number>3517</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>17</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		
+		<!-- 3518 -->
+		<connection>
+			<number>3518</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>18</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		
+		<!-- 3519 -->
+		<connection>
+			<number>3519</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>19</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		
+		<!-- 3520 -->
+		<connection>
+			<number>3520</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>20</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3521 -->
+		<connection>
+			<number>3521</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>21</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3522 -->
+		<connection>
+			<number>3522</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>35</row>
+				<column>22</column>
+			</episode>
+			<episode id="5">
+				<img>img/connectors/passthrough.png</img>
+				<highlight>img/connectors/passthrough_horz-halo.png</highlight>
+			</episode>
+			<episode id="6">
+				<img>img/connectors/vertical.png</img>
+				<highlight type="none"></highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3523 -->
+		<connection>
+			<number>3523</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>23</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3524 -->
+		<connection>
+			<number>3524</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>24</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3525 -->
+		<connection>
+			<number>3525</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>25</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		
+		<!-- 3526 -->
+		<connection>
+			<number>3526</number>
+			<episode id="3">
+				<img>img/connectors/vertical.png</img>
+				<row>35</row>
+				<column>26</column>
+			</episode>
+			<episode id="5">
+				<img>img/connectors/passthrough.png</img>
+				<highlight>img/connectors/passthrough_horz-halo.png</highlight>
+			</episode>
+			<episode id="6">
+				<img>img/connectors/vertical.png</img>
+				<highlight type="none"></highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3527 -->
+		<connection>
+			<number>3527</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>27</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3528 -->
+		<connection>
+			<number>3528</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>28</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3529 -->
+		<connection>
+			<number>3529</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>29</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3530 -->
+		<connection>
+			<number>3530</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>30</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3531 -->
+		<connection>
+			<number>3531</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>31</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3532 -->
+		<connection>
+			<number>3532</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>35</row>
+				<column>32</column>
+			</episode>
+			<episode id="5">
+				<img>img/connectors/passthrough.png</img>
+				<highlight>img/connectors/passthrough_horz-halo.png</highlight>
+			</episode>
+			<episode id="6">
+				<img>img/connectors/vertical.png</img>
+				<highlight type="none"></highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3533 -->
+		<connection>
+			<number>3533</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>33</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3534 -->
+		<connection>
+			<number>3534</number>
+			<episode id="1">
+				<img>img/connectors/vertical.png</img>
+				<row>35</row>
+				<column>34</column>
+			</episode>
+			<episode id="5">
+				<img>img/connectors/passthrough.png</img>
+				<highlight>img/connectors/passthrough_horz-halo.png</highlight>
+			</episode>
+			<episode id="6">
+				<img>img/connectors/vertical.png</img>
+				<highlight type="none"></highlight>
+			</episode>
+		</connection>
+
+		
+		<!-- 3535 -->
+		<connection>
+			<number>3535</number>
+			<episode id="3">
+				<img>img/connectors/vertical.png</img>
+				<row>35</row>
+				<column>35</column>
+				<highlight>img/connectors/vertical_halo.png</highlight>
+			</episode>
+			<episode id="5">
+				<img>img/connectors/passthrough.png</img>
+				<highlight>img/connectors/passthrough_horz-halo.png</highlight>
+			</episode>
+			<episode id="6">
+				<img>img/connectors/vertical.png</img>
+				<highlight type="none"></highlight>
+			</episode>
+		</connection>
+		
+		
+		<!-- 3536 -->
+		<connection>
+			<number>3536</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>36</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3537 -->
+		<connection>
+			<number>3537</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>37</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3538 -->
+		<connection>
+			<number>3538</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>38</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3539 -->
+		<connection>
+			<number>3539</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>39</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3540 -->
+		<connection>
+			<number>3540</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>40</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3541 -->
+		<connection>
+			<number>3541</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>41</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3542 -->
+		<connection>
+			<number>3542</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>42</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3543 -->
+		<connection>
+			<number>3543</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>43</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3544 -->
+		<connection>
+			<number>3544</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>44</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3545 -->
+		<connection>
+			<number>3545</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>45</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3546 -->
+		<connection>
+			<number>3546</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>35</row>
+				<column>46</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+			<episode id="6" type="none">
+			</episode>
+		</connection>
+		
+		<!-- 3614 -->
+		<connection>
+			<number>3614</number>
+			<episode id="11">
+				<img>img/connectors/vertical.png</img>
+				<row>36</row>
+				<column>14</column>
+			</episode>
+		</connection>
+		
+		<!-- 3623 -->
+		<connection>
+			<number>3623</number>
+			<episode id="3">
+				<img>img/connectors/horizontal.png</img>
+				<row>36</row>
+				<column>23</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3624 -->
+		<connection>
+			<number>3624</number>
+			<episode id="3">
+				<img>img/connectors/horizontal.png</img>
+				<row>36</row>
+				<column>24</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3625 -->
+		<connection>
+			<number>3625</number>
+			<episode id="3">
+				<img>img/connectors/horizontal.png</img>
+				<row>36</row>
+				<column>25</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3635 -->
+		<connection>
+			<number>3635</number>
+			<episode id="3">
+				<img>img/connectors/vertical.png</img>
+				<row>36</row>
+				<column>35</column>
+				<highlight>img/connectors/vertical_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3631 -->
+		<connection>
+			<number>3631</number>
+			<episode id="8">
+				<img>img/connectors/horizontal.png</img>
+				<row>36</row>
+				<column>31</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3714 -->
+		<connection>
+			<number>3714</number>
+			<episode id="11">
+				<img>img/connectors/vertical.png</img>
+				<row>37</row>
+				<column>14</column>
+			</episode>
+		</connection>
+		
+		<!-- 3734 -->
+		<connection>
+			<number>3734</number>
+			<episode id="3">
+				<img>img/connectors/elbowLeft.png</img>
+				<row>37</row>
+				<column>34</column>
+				<highlight>img/connectors/elbowLeft_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3735 -->
+		<connection>
+			<number>3735</number>
+			<episode id="3">
+				<img>img/connectors/junctionUp.png</img>
+				<row>37</row>
+				<column>35</column>
+				<highlight>img/connectors/junctionUp_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3736 -->
+		<connection>
+			<number>3736</number>
+			<episode id="3">
+				<img>img/connectors/junctionDown.png</img>
+				<row>37</row>
+				<column>36</column>
+				<highlight>img/connectors/junctionDown_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3737 -->
+		<connection>
+			<number>3737</number>
+			<episode id="3">
+				<img>img/connectors/horizontal.png</img>
+				<row>37</row>
+				<column>37</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3738 -->
+		<connection>
+			<number>3738</number>
+			<episode id="3">
+				<img>img/connectors/elbowRight.png</img>
+				<row>37</row>
+				<column>38</column>
+				<highlight>img/connectors/elbowRight_halo.png</highlight>
+			</episode>
+			<episode id="5">
+				<img>img/connectors/junctionDown.png</img>
+				<highlight>img/connectors/junctionDown_haloRight.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3739 -->
+		<connection>
+			<number>3739</number>
+			<episode id="5">
+				<img>img/connectors/horizontal.png</img>
+				<row>37</row>
+				<column>39</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3740 -->
+		<connection>
+			<number>3740</number>
+			<episode id="5">
+				<img>img/connectors/elbowRight.png</img>
+				<row>37</row>
+				<column>40</column>
+				<highlight>img/connectors/elbowRight_halo.png</highlight>
+			</episode>
+			<episode id="7">
+				<img>img/connectors/junctionDown.png</img>
+				<highlight>img/connectors/junctionDown_haloRight.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3741 -->
+		<connection>
+			<number>3741</number>
+			<episode id="7">
+				<img>img/connectors/horizontal.png</img>
+				<row>37</row>
+				<column>41</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3742 -->
+		<connection>
+			<number>3742</number>
+			<episode id="7">
+				<img>img/connectors/elbowRight.png</img>
+				<row>37</row>
+				<column>42</column>
+				<highlight>img/connectors/elbowRight_halo.png</highlight>
+			</episode>
+			<episode id="8">
+				<img>img/connectors/junctionDown.png</img>
+				<highlight>img/connectors/junctionDown_haloRight.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3743 -->
+		<connection>
+			<number>3743</number>
+			<episode id="8">
+				<img>img/connectors/horizontal.png</img>
+				<row>37</row>
+				<column>43</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3744 -->
+		<connection>
+			<number>3744</number>
+			<episode id="8">
+				<img>img/connectors/elbowRight.png</img>
+				<row>37</row>
+				<column>44</column>
+				<highlight>img/connectors/elbowRight_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3815 -->
+		<connection>
+			<number>3815</number>
+			<episode id="11">
+				<img>img/connectors/horizontal.png</img>
+				<row>38</row>
+				<column>15</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3816 -->
+		<connection>
+			<number>3816</number>
+			<episode id="11">
+				<img>img/connectors/horizontal.png</img>
+				<row>38</row>
+				<column>16</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3817 -->
+		<connection>
+			<number>3817</number>
+			<episode id="11">
+				<img>img/connectors/horizontal.png</img>
+				<row>38</row>
+				<column>17</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3818 -->
+		<connection>
+			<number>3818</number>
+			<episode id="11">
+				<img>img/connectors/horizontal.png</img>
+				<row>38</row>
+				<column>18</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3819 -->
+		<connection>
+			<number>3819</number>
+			<episode id="11">
+				<img>img/connectors/horizontal.png</img>
+				<row>38</row>
+				<column>19</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3820 -->
+		<connection>
+			<number>3820</number>
+			<episode id="11">
+				<img>img/connectors/horizontal.png</img>
+				<row>38</row>
+				<column>20</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3821 -->
+		<connection>
+			<number>3821</number>
+			<episode id="11">
+				<img>img/connectors/horizontal.png</img>
+				<row>38</row>
+				<column>21</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3822 -->
+		<connection>
+			<number>3822</number>
+			<episode id="11">
+				<img>img/connectors/horizontal.png</img>
+				<row>38</row>
+				<column>22</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3823 -->
+		<connection>
+			<number>3823</number>
+			<episode id="11">
+				<img>img/connectors/horizontal.png</img>
+				<row>38</row>
+				<column>23</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3824 -->
+		<connection>
+			<number>3824</number>
+			<episode id="11">
+				<img>img/connectors/junctionDown.png</img>
+				<row>38</row>
+				<column>24</column>
+				<highlight>img/connectors/junctionDown_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3825 -->
+		<connection>
+			<number>3825</number>
+			<episode id="11">
+				<img>img/connectors/horizontal.png</img>
+				<row>38</row>
+				<column>25</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3826 -->
+		<connection>
+			<number>3826</number>
+			<episode id="11">
+				<img>img/connectors/horizontal.png</img>
+				<row>38</row>
+				<column>26</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3827 -->
+		<connection>
+			<number>3827</number>
+			<episode id="11">
+				<img>img/connectors/horizontal.png</img>
+				<row>38</row>
+				<column>27</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3828 -->
+		<connection>
+			<number>3828</number>
+			<episode id="11">
+				<img>img/connectors/horizontal.png</img>
+				<row>38</row>
+				<column>28</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3829 -->
+		<connection>
+			<number>3829</number>
+			<episode id="11">
+				<img>img/connectors/horizontal.png</img>
+				<row>38</row>
+				<column>29</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3830 -->
+		<connection>
+			<number>3830</number>
+			<episode id="11">
+				<img>img/connectors/horizontal.png</img>
+				<row>38</row>
+				<column>30</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3831 -->
+		<connection>
+			<number>3831</number>
+			<episode id="11">
+				<img>img/connectors/horizontal.png</img>
+				<row>38</row>
+				<column>31</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3832 -->
+		<connection>
+			<number>3832</number>
+			<episode id="11">
+				<img>img/connectors/horizontal.png</img>
+				<row>38</row>
+				<column>32</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3833 -->
+		<connection>
+			<number>3833</number>
+			<episode id="11">
+				<img>img/connectors/horizontal.png</img>
+				<row>38</row>
+				<column>33</column>
+				<highlight>img/connectors/horizontal_halo.png</highlight>
+			</episode>
+		</connection>
+		
+		<!-- 3924 -->
+		<connection>
+			<number>3924</number>
+			<episode id="11">
+				<img>img/connectors/vertical.png</img>
+				<row>39</row>
+				<column>24</column>
+				<highlight>img/connectors/vertical_halo.png</highlight>
+			</episode>
+		</connection>
+			
+	</connections>
+</data>

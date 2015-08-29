@@ -1,0 +1,1921 @@
+<data>
+	<episode id="1">
+		<polls>
+			<poll episode="1" number="1" available="false">
+				<displayName><![CDATA[Power Player]]></displayName>
+				<dataName>powerPlayer</dataName>
+				<description><![CDATA[This accolade goes to the character that came out on top this week. Who stood out? Who's holding all the cards?]]></description>
+				<answers>
+						<answer>
+								<image>anthony</image>
+								<name><![CDATA[Anthony Rivers]]></name>
+								<video>video/character/anthony</video>
+								<path>img/polls/anthony.jpg</path>
+								<id>anthonyRivers</id>
+						</answer>
+						<answer>
+								<image>cecily</image>
+								<name><![CDATA[Cecily Neville]]></name>
+								<video>video/character/cecily</video>
+								<path>img/polls/cecily.jpg</path>
+								<id>cecilyNeville</id>
+						</answer>
+				</answers>
+			</poll>
+				
+			<poll episode="1" number="2" available="false">
+				<displayName><![CDATA[Scheming Schemer]]></displayName>
+				<dataName>schemingSchemer</dataName>
+				<description><![CDATA[They're pulling all the strings. They're setting all the traps. Who was this weeks most manipulative character?]]></description>
+				<answers>
+						<answer>
+								<image>anthony</image>
+								<name><![CDATA[Anthony Rivers]]></name>
+								<video>video/character/anthony</video>
+								<path>img/polls/anthony.jpg</path>
+								<id>anthonyRivers</id>
+						</answer>
+						<answer>
+								<image>cecily</image>
+								<name><![CDATA[Cecily Neville]]></name>
+								<video>video/character/cecily</video>
+								<path>img/polls/cecily.jpg</path>
+								<id>cecilyNeville</id>
+						</answer>
+				</answers>
+			</poll>
+				
+			<poll episode="1" number="3" available="true">
+				<displayName><![CDATA[War of the Words]]></displayName>
+				<dataName>warOfTheWords</dataName>
+				<description><![CDATA[From razor-sharp barbs to dexterous dialog, who spoke the line that stood head and shoulders above the rest?]]></description>
+				<answers>
+						<answer>
+								<image>edward</image>
+								<name><![CDATA[Edward IV]]></name>
+								<video>video/poll/WarOfTheWords_Edward</video>
+								<path>img/polls/edward.jpg</path>
+								<id>kingEdwardIV</id>
+						</answer>
+						<answer>
+								<image>cecily</image>
+								<name><![CDATA[Cecily Neville]]></name>
+								<video>video/poll/WarOfTheWords_Elizabeth</video>
+								<path>img/polls/cecily.jpg</path>
+								<id>cecilyNeville</id>
+						</answer>
+						<answer>
+								<image>jacquetta</image>
+								<name><![CDATA[Jacquetta Woodville]]></name>
+								<video>video/poll/WarOfTheWords_Jacquetta</video>
+								<path>img/polls/jacquetta.jpg</path>
+								<id>jacquettaWoodville</id>
+						</answer>
+				</answers>
+			</poll>
+				
+			<poll episode="1" number="4" available="false">
+				<displayName><![CDATA[Shock and Awe]]></displayName>
+				<dataName>shockAndAwe</dataName>
+				<description><![CDATA[It was a scene that took your breath away, or had you screaming at the TV set. But which one left a lasting impression?]]></description>
+				<answers>
+						<answer>
+								<image>anthony</image>
+								<name><![CDATA[Anthony Rivers]]></name>
+								<video>video/character/elizabeth</video>
+								<path>img/polls/anthony.jpg</path>
+								<id>anthonyRivers</id>
+						</answer>
+						<answer>
+								<image>cecily</image>
+								<name><![CDATA[Cecily Neville]]></name>
+								<video>video/character/elizabeth</video>
+								<path>img/polls/cecily.jpg</path>
+								<id>cecilyNeville</id>
+						</answer>
+				</answers>
+			</poll>
+	
+			<poll episode="1" number="5" available="true">
+				<displayName><![CDATA[Scene Stealer]]></displayName>
+				<dataName>sceneStealer</dataName>
+				<description><![CDATA[For you, it was the crowning moment of the episode. In fact, if it were any better, you'd have given it a standing ovation.]]></description>
+				<answers>
+						<answer>
+								<image>elizabeth</image>
+								<name><![CDATA[Elizabeth Woodville]]></name>
+								<video>video/poll/SceneStealer_Elizabeth</video>
+								<path>img/polls/elizabeth.jpg</path>
+								<id>elizabethWoodville</id>
+						</answer>
+						<answer>
+								<image>anthony</image>
+								<name><![CDATA[Anthony Rivers]]></name>
+								<video>video/poll/SceneStealer_Anthony</video>
+								<path>img/polls/anthony.jpg</path>
+								<id>anthonyRivers</id>
+						</answer>
+						<answer>
+								<image>edward</image>
+								<name><![CDATA[King Edward IV]]></name>
+								<video>video/poll/SceneStealer_Edward</video>
+								<path>img/polls/edward.jpg</path>
+								<id>kingEdwardIV</id>
+						</answer>
+						<answer>
+								<image>warwick</image>
+								<name><![CDATA[Lord Warwick]]></name>
+								<video>video/poll/SceneStealer_Warwick</video>
+								<path>img/polls/warwick.jpg</path>
+								<id>lordWarwick</id>
+						</answer>
+				</answers>
+			</poll>
+				
+			<poll episode="1" number="6" available="true">
+				<displayName><![CDATA[If Looks Could Kill]]></displayName>
+				<dataName>ifLooksCouldKill</dataName>
+				<description><![CDATA[That look. The one that burned deep into someone's soul, or sent daggers flying across the room. Who had this episode's blackest scowl?]]></description>
+				<answers>
+						<answer>
+								<image>anthony</image>
+								<name><![CDATA[Anthony Rivers]]></name>
+								<video>video/poll/ifLooksCouldKill_Anthony</video>
+								<path>img/polls/anthony.jpg</path>
+								<id>anthonyRivers</id>
+						</answer>
+						<answer>
+								<image>cecily</image>
+								<name><![CDATA[Cecily Neville]]></name>
+								<video>video/poll/ifLooksCouldKill_Cecily</video>
+								<path>img/polls/cecily.jpg</path>
+								<id>cecilyNeville</id>
+						</answer>
+				</answers>
+			</poll>
+		</polls>
+	</episode>
+	<episode id="2">
+			<polls>
+				<poll episode="2" number="1" available="false">
+					<displayName><![CDATA[Power Player]]></displayName>
+					<dataName>powerPlayer</dataName>
+					<description><![CDATA[This accolade goes to the character that came out on top this week. Who stood out? Who's holding all the cards?]]></description>
+					<answers>
+							<answer>
+									<image>anthony</image>
+									<name><![CDATA[Anthony Rivers]]></name>
+									<video>video/character/elizabeth</video>
+									<path>img/polls/anthony.jpg</path>
+									<id>anthonyRivers</id>
+							</answer>
+							<answer>
+									<image>cecily</image>
+									<name><![CDATA[Cecily Neville]]></name>
+									<video>video/character/elizabeth</video>
+									<path>img/polls/cecily.jpg</path>
+									<id>cecilyNeville</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="2" number="2" available="true">
+					<displayName><![CDATA[Scheming Schemer]]></displayName>
+					<dataName>schemingSchemer</dataName>
+					<description><![CDATA[They're pulling all the strings. They're setting all the traps. Who was this weeks most manipulative character?]]></description>
+					<answers>
+							<answer>
+									<image>margaret</image>
+									<name><![CDATA[Margaret Beaufort]]></name>
+									<video>video/polls/schemingSchemer_margaret</video>
+									<path>img/polls/margaret.jpg</path>
+									<id>margaretBeaufort</id>
+							</answer>
+							<answer>
+									<image>warwick</image>
+									<name><![CDATA[Lord Warwick]]></name>
+									<video>video/polls/schemingSchemer_warwick</video>
+									<path>img/polls/warwick.jpg</path>
+									<id>lordWarwick</id>
+							</answer>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/schemingSchemer_elizabeth</video>
+									<path>img/polls/elizabeth.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="2" number="3" available="true">
+					<displayName><![CDATA[War of the Words]]></displayName>
+					<dataName>warOfTheWords</dataName>
+					<description><![CDATA[From razor-sharp barbs to dexterous dialog, who spoke the line that stood head and shoulders above the rest?]]></description>
+					<answers>
+							<answer>
+									<image>isabel</image>
+									<name><![CDATA[Isabel Neville]]></name>
+									<video>video/polls/warOfTheWords_isabel</video>
+									<path>img/polls/isabel.jpg</path>
+									<id>isabelNeville</id>
+							</answer>
+							<answer>
+									<image>warwick</image>
+									<name><![CDATA[Lord Warwick]]></name>
+									<video>video/polls/warOfTheWords_warwick</video>
+									<path>img/polls/warwick.jpg</path>
+									<id>lordWarwick</id>
+							</answer>
+							<answer>
+									<image>cecily</image>
+									<name><![CDATA[Cecily Neville]]></name>
+									<video>video/polls/warOfTheWords_cecily</video>
+									<path>img/polls/cecily.jpg</path>
+									<id>cecilyNeville</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="2" number="4" available="true">
+					<displayName><![CDATA[Shock and Awe]]></displayName>
+					<dataName>shockAndAwe</dataName>
+					<description><![CDATA[It was a scene that took your breath away, or had you screaming at the TV set. But which one left a lasting impression?]]></description>
+					<answers>
+							<answer>
+									<image>warwick</image>
+									<name><![CDATA[Lord Warwick]]></name>
+									<video>video/polls/shockAndAwe_warwick</video>
+									<path>img/polls/warwick.jpg</path>
+									<id>lordWarwick</id>
+							</answer>
+							<answer>
+									<image>anthony</image>
+									<name><![CDATA[Anthony Rivers]]></name>
+									<video>video/polls/shockAndAwe_anthony</video>
+									<path>img/polls/anthony.jpg</path>
+									<id>anthonyRivers</id>
+							</answer>
+							<answer>
+									<image>edward</image>
+									<name><![CDATA[King Edward IV]]></name>
+									<video>video/polls/shockAndAwe_edward</video>
+									<path>img/polls/edward.jpg</path>
+									<id>kingEdwardIV</id>
+							</answer>
+							<answer>
+									<image>george</image>
+									<name><![CDATA[George]]></name>
+									<video>video/polls/shockAndAwe_george</video>
+									<path>img/polls/george.jpg</path>
+									<id>georgeDukeOfClarence</id>
+							</answer>
+					</answers>
+				</poll>
+	
+				<poll episode="2" number="5" available="false">
+					<displayName><![CDATA[Scene Stealer]]></displayName>
+					<dataName>sceneStealer</dataName>
+					<description><![CDATA[For you, it was the crowning moment of the episode. In fact, if it were any better, you'd have given it a standing ovation.]]></description>
+					<answers>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/SceneStealer_Elizabeth</video>
+									<path>img/polls/edward.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+							<answer>
+									<image>edward</image>
+									<name><![CDATA[King Edward IV]]></name>
+									<video>video/polls/SceneStealer_Edward</video>
+									<path>img/polls/edward.jpg</path>
+									<id>kingEdwardIV</id>
+							</answer>
+							<answer>
+									<image>warwick</image>
+									<name><![CDATA[Lord Warwick]]></name>
+									<video>video/polls/SceneStealer_Warwick</video>
+									<path>img/polls/warwick.jpg</path>
+									<id>lordWarwick</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="2" number="6" available="false">
+					<displayName><![CDATA[If Looks Could Kill]]></displayName>
+					<dataName>ifLooksCouldKill</dataName>
+					<description><![CDATA[That look. The one that burned deep into someone's soul, or sent daggers flying across the room. Who had this episode's blackest scowl?]]></description>
+					<answers>
+							<answer>
+									<image>anthony</image>
+									<name><![CDATA[Anthony Rivers]]></name>
+									<video>video/polls/ifLooksCouldKill_Anthony</video>
+									<path>img/polls/anthony.jpg</path>
+									<id>anthonyRivers</id>
+							</answer>
+							<answer>
+									<image>cecily</image>
+									<name><![CDATA[Cecily Neville]]></name>
+									<video>video/polls/ifLooksCouldKill_Cecily</video>
+									<path>img/polls/cecily.jpg</path>
+									<id>cecilyNeville</id>
+							</answer>
+					</answers>
+				</poll>			
+		</polls>
+	</episode>
+	<episode id="3">
+			<polls>
+				<poll episode="3" number="1" available="false">
+					<displayName><![CDATA[Power Player]]></displayName>
+					<dataName>powerPlayer</dataName>
+					<description><![CDATA[This accolade goes to the character that came out on top this week. Who stood out? Who's holding all the cards?]]></description>
+					<answers>
+							<answer>
+									<image>anthony</image>
+									<name><![CDATA[Anthony Rivers]]></name>
+									<video>video/character/elizabeth</video>
+									<path>img/polls/anthony.jpg</path>
+									<id>anthonyRivers</id>
+							</answer>
+							<answer>
+									<image>cecily</image>
+									<name><![CDATA[Cecily Neville]]></name>
+									<video>video/character/elizabeth</video>
+									<path>img/polls/cecily.jpg</path>
+									<id>cecilyNeville</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="3" number="2" available="true">
+					<displayName><![CDATA[Scheming Schemer]]></displayName>
+					<dataName>schemingSchemer</dataName>
+					<description><![CDATA[They're pulling all the strings. They're setting all the traps. Who was this weeks most manipulative character?]]></description>
+					<answers>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/schemingSchemer_elizabeth</video>
+									<path>img/polls/elizabeth.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+							<answer>
+									<image>warwick</image>
+									<name><![CDATA[Lord Warwick]]></name>
+									<video>video/polls/schemingSchemer_warwick</video>
+									<path>img/polls/warwick.jpg</path>
+									<id>lordWarwick</id>
+							</answer>
+							<answer>
+									<image>jasper</image>
+									<name><![CDATA[Jasper Tudor]]></name>
+									<video>video/polls/schemingSchemer_jasper</video>
+									<path>img/polls/jasper.jpg</path>
+									<id>jasperTudor</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="3" number="3" available="false">
+					<displayName><![CDATA[War of the Words]]></displayName>
+					<dataName>warOfTheWords</dataName>
+					<description><![CDATA[From razor-sharp barbs to dexterous dialog, who spoke the line that stood head and shoulders above the rest?]]></description>
+					<answers>
+							<answer>
+									<image>isabel</image>
+									<name><![CDATA[Isabel Neville]]></name>
+									<video>video/polls/warOfTheWords_isabel</video>
+									<path>img/polls/isabel.jpg</path>
+									<id>isabelNeville</id>
+							</answer>
+							<answer>
+									<image>warwick</image>
+									<name><![CDATA[Lord Warwick]]></name>
+									<video>video/polls/warOfTheWords_warwick</video>
+									<path>img/polls/warwick.jpg</path>
+									<id>lordWarwick</id>
+							</answer>
+							<answer>
+									<image>cecily</image>
+									<name><![CDATA[Cecily Neville]]></name>
+									<video>video/polls/warOfTheWords_cecily</video>
+									<path>img/polls/cecily.jpg</path>
+									<id>cecilyNeville</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="3" number="4" available="true">
+					<displayName><![CDATA[Shock and Awe]]></displayName>
+					<dataName>shockAndAwe</dataName>
+					<description><![CDATA[It was a scene that took your breath away, or had you screaming at the TV set. But which one left a lasting impression?]]></description>
+					<answers>
+							<answer>
+									<image>edward</image>
+									<name><![CDATA[King Edward IV]]></name>
+									<video>video/polls/shockAndAwe_edward</video>
+									<path>img/polls/edward.jpg</path>
+									<id>kingEdwardIV</id>
+							</answer>
+							<answer>
+									<image>margaret</image>
+									<name><![CDATA[Margaret Beaufort]]></name>
+									<video>video/polls/shockAndAwe_margaret</video>
+									<path>img/polls/margaret.jpg</path>
+									<id>margaretBeaufort</id>
+							</answer>
+							<answer>
+									<image>welles</image>
+									<name><![CDATA[Richard Welles]]></name>
+									<video>video/polls/shockAndAwe_welles</video>
+									<path>img/polls/welles.jpg</path>
+									<id>richardWelles</id>
+							</answer>
+					</answers>
+				</poll>
+	
+				<poll episode="3" number="5" available="true">
+					<displayName><![CDATA[Scene Stealer]]></displayName>
+					<dataName>sceneStealer</dataName>
+					<description><![CDATA[For you, it was the crowning moment of the episode. In fact, if it were any better, you'd have given it a standing ovation.]]></description>
+					<answers>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/sceneStealer_elizabeth</video>
+									<path>img/polls/elizabeth.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+							<answer>
+									<image>edward</image>
+									<name><![CDATA[King Edward IV]]></name>
+									<video>video/polls/sceneStealer_edward</video>
+									<path>img/polls/edward.jpg</path>
+									<id>kingEdwardIV</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="3" number="6" available="false">
+					<displayName><![CDATA[If Looks Could Kill]]></displayName>
+					<dataName>ifLooksCouldKill</dataName>
+					<description><![CDATA[That look. The one that burned deep into someone's soul, or sent daggers flying across the room. Who had this episode's blackest scowl?]]></description>
+					<answers>
+							<answer>
+									<image>anthony</image>
+									<name><![CDATA[Anthony Rivers]]></name>
+									<video>video/polls/ifLooksCouldKill_Anthony</video>
+									<path>img/polls/anthony.jpg</path>
+									<id>anthonyRivers</id>
+							</answer>
+							<answer>
+									<image>cecily</image>
+									<name><![CDATA[Cecily Neville]]></name>
+									<video>video/polls/ifLooksCouldKill_Cecily</video>
+									<path>img/polls/cecily.jpg</path>
+									<id>cecilyNeville</id>
+							</answer>
+					</answers>
+				</poll>			
+		</polls>
+	</episode>
+	<episode id="4">
+			<polls>
+				<poll episode="4" number="1" available="false">
+					<displayName><![CDATA[Power Player]]></displayName>
+					<dataName>powerPlayer</dataName>
+					<description><![CDATA[This accolade goes to the character that came out on top this week. Who stood out? Who's holding all the cards?]]></description>
+					<answers>
+							<answer>
+									<image>anthony</image>
+									<name><![CDATA[Anthony Rivers]]></name>
+									<video>video/character/elizabeth</video>
+									<path>img/polls/anthony.jpg</path>
+									<id>anthonyRivers</id>
+							</answer>
+							<answer>
+									<image>cecily</image>
+									<name><![CDATA[Cecily Neville]]></name>
+									<video>video/character/elizabeth</video>
+									<path>img/polls/cecily.jpg</path>
+									<id>cecilyNeville</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="4" number="2" available="true">
+					<displayName><![CDATA[Scheming Schemer]]></displayName>
+					<dataName>schemingSchemer</dataName>
+					<description><![CDATA[They're pulling all the strings. They're setting all the traps. Who was this weeks most manipulative character?]]></description>
+					<answers>
+							<answer>
+									<image>anjou</image>
+									<name><![CDATA[Margaret d'Anjou]]></name>
+									<video>video/polls/schemingSchemer_anjou</video>
+									<path>img/polls/anjou.jpg</path>
+									<id>margaretAnjou</id>
+							</answer>
+							<answer>
+									<image>countessWarwick</image>
+									<name><![CDATA[Countess Warwick]]></name>
+									<video>video/polls/schemingSchemer_countessWarwick</video>
+									<path>img/polls/countessWarwick.jpg</path>
+									<id>anneBeauchamp</id>
+							</answer>
+							<answer>
+									<image>jacquetta</image>
+									<name><![CDATA[Jacquetta Woodville]]></name>
+									<video>video/polls/schemingSchemer_jacquetta</video>
+									<path>img/polls/jacquetta.jpg</path>
+									<id>jacquettaWoodville</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="4" number="3" available="false">
+					<displayName><![CDATA[War of the Words]]></displayName>
+					<dataName>warOfTheWords</dataName>
+					<description><![CDATA[From razor-sharp barbs to dexterous dialog, who spoke the line that stood head and shoulders above the rest?]]></description>
+					<answers>
+							<answer>
+									<image>isabel</image>
+									<name><![CDATA[Isabel Neville]]></name>
+									<video>video/polls/warOfTheWords_isabel</video>
+									<path>img/polls/isabel.jpg</path>
+									<id>isabelNeville</id>
+							</answer>
+							<answer>
+									<image>warwick</image>
+									<name><![CDATA[Lord Warwick]]></name>
+									<video>video/polls/warOfTheWords_warwick</video>
+									<path>img/polls/warwick.jpg</path>
+									<id>lordWarwick</id>
+							</answer>
+							<answer>
+									<image>cecily</image>
+									<name><![CDATA[Cecily Neville]]></name>
+									<video>video/polls/warOfTheWords_cecily</video>
+									<path>img/polls/cecily.jpg</path>
+									<id>cecilyNeville</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="4" number="4" available="true">
+					<displayName><![CDATA[Shock and Awe]]></displayName>
+					<dataName>shockAndAwe</dataName>
+					<description><![CDATA[It was a scene that took your breath away, or had you screaming at the TV set. But which one left a lasting impression?]]></description>
+					<answers>
+							<answer>
+									<image>anne</image>
+									<name><![CDATA[Anne Neville]]></name>
+									<video>video/polls/shockAndAwe_anne</video>
+									<path>img/polls/anne.jpg</path>
+									<id>anneNeville</id>
+							</answer>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/shockAndAwe_elizabeth</video>
+									<path>img/polls/elizabeth.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+							<answer>
+									<image>henryTudor</image>
+									<name><![CDATA[Henry Tudor]]></name>
+									<video>video/polls/shockAndAwe_henryTudor</video>
+									<path>img/polls/henryTudor.jpg</path>
+									<id>henryTudor</id>
+							</answer>
+							<answer>
+									<image>warwick</image>
+									<name><![CDATA[Lord Warwick]]></name>
+									<video>video/polls/shockAndAwe_Warwick</video>
+									<path>img/polls/warwick.jpg</path>
+									<id>lordWarwick</id>
+							</answer>
+					</answers>
+				</poll>
+	
+				<poll episode="4" number="5" available="true">
+					<displayName><![CDATA[Scene Stealer]]></displayName>
+					<dataName>sceneStealer</dataName>
+					<description><![CDATA[For you, it was the crowning moment of the episode. In fact, if it were any better, you'd have given it a standing ovation.]]></description>
+					<answers>
+							<answer>
+									<image>anjou</image>
+									<name><![CDATA[Margaret d'Anjou]]></name>
+									<video>video/polls/sceneStealer_anjou</video>
+									<path>img/polls/anjou.jpg</path>
+									<id>margaretAnjou</id>
+							</answer>
+							<answer>
+									<image>jacquetta</image>
+									<name><![CDATA[Jacquetta Woodville]]></name>
+									<video>video/polls/sceneStealer_jacquetta</video>
+									<path>img/polls/jacquetta.jpg</path>
+									<id>jacquettaWoodville</id>
+							</answer>
+							<answer>
+									<image>margaret</image>
+									<name><![CDATA[Margaret Beaufort]]></name>
+									<video>video/polls/sceneStealer_margaret</video>
+									<path>img/polls/margaret.jpg</path>
+									<id>margaretBeaufort</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="4" number="6" available="false">
+					<displayName><![CDATA[If Looks Could Kill]]></displayName>
+					<dataName>ifLooksCouldKill</dataName>
+					<description><![CDATA[That look. The one that burned deep into someone's soul, or sent daggers flying across the room. Who had this episode's blackest scowl?]]></description>
+					<answers>
+							<answer>
+									<image>anthony</image>
+									<name><![CDATA[Anthony Rivers]]></name>
+									<video>video/polls/ifLooksCouldKill_Anthony</video>
+									<path>img/polls/anthony.jpg</path>
+									<id>anthonyRivers</id>
+							</answer>
+							<answer>
+									<image>cecily</image>
+									<name><![CDATA[Cecily Neville]]></name>
+									<video>video/polls/ifLooksCouldKill_Cecily</video>
+									<path>img/polls/cecily.jpg</path>
+									<id>cecilyNeville</id>
+							</answer>
+					</answers>
+				</poll>			
+		</polls>
+	</episode>
+	<episode id="5">
+			<polls>
+				<poll episode="5" number="1" available="true">
+					<displayName><![CDATA[Power Player]]></displayName>
+					<dataName>powerPlayer</dataName>
+					<description><![CDATA[This accolade goes to the character that came out on top this week. Who stood out? Who's holding all the cards?]]></description>
+					<answers>
+							<answer>
+									<image>anjou</image>
+									<name><![CDATA[Margaret d'Anjo]]></name>
+									<video>video/polls/powerPlayer_anjou</video>
+									<path>img/polls/anjou.jpg</path>
+									<id>margaretAnjou</id>
+							</answer>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/powerPlayer_elizabeth</video>
+									<path>img/polls/elizabeth.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+							<answer>
+									<image>margaret</image>
+									<name><![CDATA[Margaret Beaufort]]></name>
+									<video>video/polls/powerPlayer_margaret</video>
+									<path>img/polls/margaret.jpg</path>
+									<id>margaretBeaufort</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="5" number="2" available="false">
+					<displayName><![CDATA[Scheming Schemer]]></displayName>
+					<dataName>schemingSchemer</dataName>
+					<description><![CDATA[They're pulling all the strings. They're setting all the traps. Who was this weeks most manipulative character?]]></description>
+					<answers>
+							<answer>
+									<image>anjou</image>
+									<name><![CDATA[Margaret d'Anjou]]></name>
+									<video>video/polls/schemingSchemer_anjou</video>
+									<path>img/polls/anjou.jpg</path>
+									<id>margaretAnjou</id>
+							</answer>
+							<answer>
+									<image>countessWarwick</image>
+									<name><![CDATA[Countess Warwick]]></name>
+									<video>video/polls/schemingSchemer_countessWarwick</video>
+									<path>img/polls/countessWarwick.jpg</path>
+									<id>anneBeauchamp</id>
+							</answer>
+							<answer>
+									<image>jacquetta</image>
+									<name><![CDATA[Jacquetta Woodville]]></name>
+									<video>video/polls/schemingSchemer_jacquetta</video>
+									<path>img/polls/jacquetta.jpg</path>
+									<id>jacquettaWoodville</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="5" number="3" available="false">
+					<displayName><![CDATA[War of the Words]]></displayName>
+					<dataName>warOfTheWords</dataName>
+					<description><![CDATA[From razor-sharp barbs to dexterous dialog, who spoke the line that stood head and shoulders above the rest?]]></description>
+					<answers>
+							<answer>
+									<image>isabel</image>
+									<name><![CDATA[Isabel Neville]]></name>
+									<video>video/polls/warOfTheWords_isabel</video>
+									<path>img/polls/isabel.jpg</path>
+									<id>isabelNeville</id>
+							</answer>
+							<answer>
+									<image>warwick</image>
+									<name><![CDATA[Lord Warwick]]></name>
+									<video>video/polls/warOfTheWords_warwick</video>
+									<path>img/polls/warwick.jpg</path>
+									<id>lordWarwick</id>
+							</answer>
+							<answer>
+									<image>cecily</image>
+									<name><![CDATA[Cecily Neville]]></name>
+									<video>video/polls/warOfTheWords_cecily</video>
+									<path>img/polls/cecily.jpg</path>
+									<id>cecilyNeville</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="5" number="4" available="true">
+					<displayName><![CDATA[Shock and Awe]]></displayName>
+					<dataName>shockAndAwe</dataName>
+					<description><![CDATA[It was a scene that took your breath away, or had you screaming at the TV set. But which one left a lasting impression?]]></description>
+					<answers>
+							<answer>
+									<image>edward</image>
+									<name><![CDATA[King Edward IV]]></name>
+									<video>video/polls/shockAndAwe_edward</video>
+									<path>img/polls/edward.jpg</path>
+									<id>kingEdwardIV</id>
+							</answer>
+							<answer>
+									<image>stafford</image>
+									<name><![CDATA[Sir Henry Stafford]]></name>
+									<video>video/polls/shockAndAwe_stafford</video>
+									<path>img/polls/stafford.jpg</path>
+									<id>sirHenryStafford</id>
+							</answer>
+							<answer>
+									<image>warwick</image>
+									<name><![CDATA[Lord Warwick]]></name>
+									<video>video/polls/shockAndAwe_warwick</video>
+									<path>img/polls/warwick.jpg</path>
+									<id>lordWarwick</id>
+							</answer>
+					</answers>
+				</poll>
+	
+				<poll episode="5" number="5" available="true">
+					<displayName><![CDATA[Scene Stealer]]></displayName>
+					<dataName>sceneStealer</dataName>
+					<description><![CDATA[For you, it was the crowning moment of the episode. In fact, if it were any better, you'd have given it a standing ovation.]]></description>
+					<answers>
+							<answer>
+									<image>anne</image>
+									<name><![CDATA[Anne Neville]]></name>
+									<video>video/polls/sceneStealer_anne</video>
+									<path>img/polls/anne.jpg</path>
+									<id>anneNeville</id>
+							</answer>
+							<answer>
+									<image>edward</image>
+									<name><![CDATA[King Edward IV]]></name>
+									<video>video/polls/sceneStealer_edward</video>
+									<path>img/polls/edward.jpg</path>
+									<id>kingEdwardIV</id>
+							</answer>
+							<answer>
+									<image>margaret</image>
+									<name><![CDATA[Margaret Beaufort]]></name>
+									<video>video/polls/sceneStealer_margaret</video>
+									<path>img/polls/margaret.jpg</path>
+									<id>margaretBeaufort</id>
+							</answer>
+							<answer>
+									<image>richard</image>
+									<name><![CDATA[Richard]]></name>
+									<video>video/polls/sceneStealer_richard</video>
+									<path>img/polls/richard.jpg</path>
+									<id>RichardDukeofGloucester</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="5" number="6" available="false">
+					<displayName><![CDATA[If Looks Could Kill]]></displayName>
+					<dataName>ifLooksCouldKill</dataName>
+					<description><![CDATA[That look. The one that burned deep into someone's soul, or sent daggers flying across the room. Who had this episode's blackest scowl?]]></description>
+					<answers>
+							<answer>
+									<image>anthony</image>
+									<name><![CDATA[Anthony Rivers]]></name>
+									<video>video/polls/ifLooksCouldKill_Anthony</video>
+									<path>img/polls/anthony.jpg</path>
+									<id>anthonyRivers</id>
+							</answer>
+							<answer>
+									<image>cecily</image>
+									<name><![CDATA[Cecily Neville]]></name>
+									<video>video/polls/ifLooksCouldKill_Cecily</video>
+									<path>img/polls/cecily.jpg</path>
+									<id>cecilyNeville</id>
+							</answer>
+					</answers>
+				</poll>			
+		</polls>
+	</episode>
+	<episode id="6">
+			<polls>
+				<poll episode="6" number="1" available="true">
+					<displayName><![CDATA[Power Player]]></displayName>
+					<dataName>powerPlayer</dataName>
+					<description><![CDATA[This accolade goes to the character that came out on top this week. Who stood out? Who's holding all the cards?]]></description>
+					<answers>
+							<answer>
+									<image>anne</image>
+									<name><![CDATA[Anne Neville]]></name>
+									<video>video/polls/powerPlayer_anne</video>
+									<path>img/polls/anne.jpg</path>
+									<id>anneNeville</id>
+							</answer>
+							<answer>
+									<image>isabel</image>
+									<name><![CDATA[Isabel Neville]]></name>
+									<video>video/polls/powerPlayer_isabel</video>
+									<path>img/polls/isabel.jpg</path>
+									<id>isabelNeville</id>
+							</answer>
+							<answer>
+									<image>stanley</image>
+									<name><![CDATA[Thomas Stanley]]></name>
+									<video>video/polls/powerPlayer_stanley</video>
+									<path>img/polls/stanley.jpg</path>
+									<id>thomasStanley</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="6" number="2" available="true">
+					<displayName><![CDATA[Scheming Schemer]]></displayName>
+					<dataName>schemingSchemer</dataName>
+					<description><![CDATA[They're pulling all the strings. They're setting all the traps. Who was this weeks most manipulative character?]]></description>
+					<answers>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/schemingSchemer_elizabeth</video>
+									<path>img/polls/elizabeth.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+							<answer>
+									<image>margaret</image>
+									<name><![CDATA[Margaret Beaufort]]></name>
+									<video>video/polls/schemingSchemer_margaret</video>
+									<path>img/polls/margaret.jpg</path>
+									<id>margaretBeaufort</id>
+							</answer>
+							<answer>
+									<image>richard</image>
+									<name><![CDATA[Richard]]></name>
+									<video>video/polls/schemingSchemer_richard</video>
+									<path>img/polls/richard.jpg</path>
+									<id>RichardDukeofGloucester</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="6" number="3" available="false">
+					<displayName><![CDATA[War of the Words]]></displayName>
+					<dataName>warOfTheWords</dataName>
+					<description><![CDATA[From razor-sharp barbs to dexterous dialog, who spoke the line that stood head and shoulders above the rest?]]></description>
+					<answers>
+							<answer>
+									<image>isabel</image>
+									<name><![CDATA[Isabel Neville]]></name>
+									<video>video/polls/warOfTheWords_isabel</video>
+									<path>img/polls/isabel.jpg</path>
+									<id>isabelNeville</id>
+							</answer>
+							<answer>
+									<image>warwick</image>
+									<name><![CDATA[Lord Warwick]]></name>
+									<video>video/polls/warOfTheWords_warwick</video>
+									<path>img/polls/warwick.jpg</path>
+									<id>lordWarwick</id>
+							</answer>
+							<answer>
+									<image>cecily</image>
+									<name><![CDATA[Cecily Neville]]></name>
+									<video>video/polls/warOfTheWords_cecily</video>
+									<path>img/polls/cecily.jpg</path>
+									<id>cecilyNeville</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="6" number="4" available="true">
+					<displayName><![CDATA[Shock and Awe]]></displayName>
+					<dataName>shockAndAwe</dataName>
+					<description><![CDATA[It was a scene that took your breath away, or had you screaming at the TV set. But which one left a lasting impression?]]></description>
+					<answers>
+							<answer>
+									<image>edward</image>
+									<name><![CDATA[King Edward IV]]></name>
+									<video>video/polls/shockAndAwe_edward</video>
+									<path>img/polls/edward.jpg</path>
+									<id>kingEdwardIV</id>
+							</answer>
+							<answer>
+									<image>jacquetta</image>
+									<name><![CDATA[Jacquetta Woodville]]></name>
+									<video>video/polls/shockAndAwe_jacquetta</video>
+									<path>img/polls/jacquetta.jpg</path>
+									<id>jacquettaWoodville</id>
+							</answer>
+							<answer>
+									<image>richard</image>
+									<name><![CDATA[Richard]]></name>
+									<video>video/polls/shockAndAwe_richard</video>
+									<path>img/polls/richard.jpg</path>
+									<id>RichardDukeofGloucester</id>
+							</answer>
+					</answers>
+				</poll>
+	
+				<poll episode="6" number="5" available="true">
+					<displayName><![CDATA[Scene Stealer]]></displayName>
+					<dataName>sceneStealer</dataName>
+					<description><![CDATA[For you, it was the crowning moment of the episode. In fact, if it were any better, you'd have given it a standing ovation.]]></description>
+					<answers>
+							<answer>
+									<image>edward</image>
+									<name><![CDATA[King Edward IV]]></name>
+									<video>video/polls/sceneStealer_edward</video>
+									<path>img/polls/edward.jpg</path>
+									<id>kingEdwardIV</id>
+							</answer>
+							<answer>
+									<image>jacquetta</image>
+									<name><![CDATA[Jacquetta Woodville]]></name>
+									<video>video/polls/sceneStealer_jacquetta</video>
+									<path>img/polls/jacquetta.jpg</path>
+									<id>jacquettaWoodville</id>
+							</answer>
+							<answer>
+									<image>margaret</image>
+									<name><![CDATA[Margaret Beaufort]]></name>
+									<video>video/polls/sceneStealer_margaret</video>
+									<path>img/polls/margaret.jpg</path>
+									<id>margaretBeaufort</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="6" number="6" available="false">
+					<displayName><![CDATA[If Looks Could Kill]]></displayName>
+					<dataName>ifLooksCouldKill</dataName>
+					<description><![CDATA[That look. The one that burned deep into someone's soul, or sent daggers flying across the room. Who had this episode's blackest scowl?]]></description>
+					<answers>
+							<answer>
+									<image>anthony</image>
+									<name><![CDATA[Anthony Rivers]]></name>
+									<video>video/polls/ifLooksCouldKill_Anthony</video>
+									<path>img/polls/anthony.jpg</path>
+									<id>anthonyRivers</id>
+							</answer>
+							<answer>
+									<image>cecily</image>
+									<name><![CDATA[Cecily Neville]]></name>
+									<video>video/polls/ifLooksCouldKill_Cecily</video>
+									<path>img/polls/cecily.jpg</path>
+									<id>cecilyNeville</id>
+							</answer>
+					</answers>
+				</poll>			
+		</polls>
+	</episode>
+	<episode id="7">
+			<polls>
+				<poll episode="7" number="1" available="true">
+					<displayName><![CDATA[Power Player]]></displayName>
+					<dataName>powerPlayer</dataName>
+					<description><![CDATA[This accolade goes to the character that came out on top this week. Who stood out? Who's holding all the cards?]]></description>
+					<answers>
+							<answer>
+									<image>anne</image>
+									<name><![CDATA[Anne Neville]]></name>
+									<video>video/polls/powerPlayer_anne</video>
+									<path>img/polls/anne.jpg</path>
+									<id>anneNeville</id>
+							</answer>
+							<answer>
+									<image>edward</image>
+									<name><![CDATA[King Edward IV]]></name>
+									<video>video/polls/powerPlayer_edward</video>
+									<path>img/polls/edward.jpg</path>
+									<id>kingEdwardIV</id>
+							</answer>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/powerPlayer_elizabeth</video>
+									<path>img/polls/elizabeth.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="7" number="2" available="false">
+					<displayName><![CDATA[Scheming Schemer]]></displayName>
+					<dataName>schemingSchemer</dataName>
+					<description><![CDATA[They're pulling all the strings. They're setting all the traps. Who was this weeks most manipulative character?]]></description>
+					<answers>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/schemingSchemer_elizabeth</video>
+									<path>img/polls/elizabeth.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+							<answer>
+									<image>margaret</image>
+									<name><![CDATA[Margaret Beaufort]]></name>
+									<video>video/polls/schemingSchemer_margaret</video>
+									<path>img/polls/margaret.jpg</path>
+									<id>margaretBeaufort</id>
+							</answer>
+							<answer>
+									<image>richard</image>
+									<name><![CDATA[Richard]]></name>
+									<video>video/polls/schemingSchemer_richard</video>
+									<path>img/polls/richard.jpg</path>
+									<id>RichardDukeofGloucester</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="7" number="3" available="true">
+					<displayName><![CDATA[War of the Words]]></displayName>
+					<dataName>warOfTheWords</dataName>
+					<description><![CDATA[From razor-sharp barbs to dexterous dialog, who spoke the line that stood head and shoulders above the rest?]]></description>
+					<answers>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/warOfTheWords_elizabeth</video>
+									<path>img/polls/elizabeth.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+							<answer>
+									<image>margaret</image>
+									<name><![CDATA[Margaret Beaufort]]></name>
+									<video>video/polls/warOfTheWords_margaret</video>
+									<path>img/polls/margaret.jpg</path>
+									<id>margaretBeaufort</id>
+							</answer>
+							<answer>
+									<image>richard</image>
+									<name><![CDATA[Richard]]></name>
+									<video>video/polls/warOfTheWords_richard</video>
+									<path>img/polls/richard.jpg</path>
+									<id>RichardDukeofGloucester</id>
+							</answer>
+							<answer>
+									<image>stanley</image>
+									<name><![CDATA[Thomas Stanley]]></name>
+									<video>video/polls/warOfTheWords_stanley</video>
+									<path>img/polls/stanley.jpg</path>
+									<id>thomasStanley</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="7" number="4" available="false">
+					<displayName><![CDATA[Shock and Awe]]></displayName>
+					<dataName>shockAndAwe</dataName>
+					<description><![CDATA[It was a scene that took your breath away, or had you screaming at the TV set. But which one left a lasting impression?]]></description>
+					<answers>
+							<answer>
+									<image>edward</image>
+									<name><![CDATA[King Edward IV]]></name>
+									<video>video/polls/shockAndAwe_edward</video>
+									<path>img/polls/edward.jpg</path>
+									<id>kingEdwardIV</id>
+							</answer>
+							<answer>
+									<image>jacquetta</image>
+									<name><![CDATA[Jacquetta Woodville]]></name>
+									<video>video/polls/shockAndAwe_jacquetta</video>
+									<path>img/polls/jacquetta.jpg</path>
+									<id>jacquettaWoodville</id>
+							</answer>
+							<answer>
+									<image>richard</image>
+									<name><![CDATA[Richard]]></name>
+									<video>video/polls/shockAndAwe_richard</video>
+									<path>img/polls/richard.jpg</path>
+									<id>RichardDukeofGloucester</id>
+							</answer>
+					</answers>
+				</poll>
+	
+				<poll episode="7" number="5" available="true">
+					<displayName><![CDATA[Scene Stealer]]></displayName>
+					<dataName>sceneStealer</dataName>
+					<description><![CDATA[For you, it was the crowning moment of the episode. In fact, if it were any better, you'd have given it a standing ovation.]]></description>
+					<answers>
+							<answer>
+									<image>george</image>
+									<name><![CDATA[George]]></name>
+									<video>video/polls/sceneStealer_georgeDrown</video>
+									<path>img/polls/george.jpg</path>
+									<id>georgeDukeOfClarence</id>
+							</answer>
+							<answer>
+									<image>george</image>
+									<name><![CDATA[George]]></name>
+									<video>video/polls/sceneStealer_georgeFuneral</video>
+									<path>img/polls/george.jpg</path>
+									<id>georgeDukeOfClarence</id>
+							</answer>
+							<answer>
+									<image>george</image>
+									<name><![CDATA[George]]></name>
+									<video>video/polls/sceneStealer_georgeMasq</video>
+									<path>img/polls/george.jpg</path>
+									<id>georgeDukeOfClarence</id>
+							</answer>
+							<answer>
+									<image>isabel</image>
+									<name><![CDATA[Isabel Neville]]></name>
+									<video>video/polls/sceneStealer_isabel</video>
+									<path>img/polls/isabel.jpg</path>
+									<id>isabelNeville</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="7" number="6" available="true">
+					<displayName><![CDATA[If Looks Could Kill]]></displayName>
+					<dataName>ifLooksCouldKill</dataName>
+					<description><![CDATA[That look. The one that burned deep into someone's soul, or sent daggers flying across the room. Who had this episode's blackest scowl?]]></description>
+					<answers>
+							<answer>
+									<image>edward</image>
+									<name><![CDATA[King Edward IV]]></name>
+									<video>video/polls/ifLooksCouldKill_edward</video>
+									<path>img/polls/edward.jpg</path>
+									<id>kingEdwardIV</id>
+							</answer>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/ifLooksCouldKill_elizabeth</video>
+									<path>img/polls/elizabeth.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+							<answer>
+									<image>george</image>
+									<name><![CDATA[George]]></name>
+									<video>video/polls/ifLooksCouldKill_george</video>
+									<path>img/polls/george.jpg</path>
+									<id>georgeDukeOfClarence</id>
+							</answer>
+					</answers>
+				</poll>			
+		</polls>
+	</episode>
+	<episode id="8">
+			<polls>
+				<poll episode="8" number="1" available="true">
+					<displayName><![CDATA[Power Player]]></displayName>
+					<dataName>powerPlayer</dataName>
+					<description><![CDATA[This accolade goes to the character that came out on top this week. Who stood out? Who's holding all the cards?]]></description>
+					<answers>
+							<answer>
+									<image>anne</image>
+									<name><![CDATA[Anne Neville]]></name>
+									<video>video/polls/powerPlayer_anne</video>
+									<path>img/polls/anne.jpg</path>
+									<id>anneNeville</id>
+							</answer>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/powerPlayer_elizabeth</video>
+									<path>img/polls/elizabeth.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="8" number="2" available="true">
+					<displayName><![CDATA[Scheming Schemer]]></displayName>
+					<dataName>schemingSchemer</dataName>
+					<description><![CDATA[They're pulling all the strings. They're setting all the traps. Who was this weeks most manipulative character?]]></description>
+					<answers>
+							<answer>
+									<image>anne</image>
+									<name><![CDATA[Anne Neville]]></name>
+									<video>video/polls/schemingSchemer_anne</video>
+									<path>img/polls/anne.jpg</path>
+									<id>anneNeville</id>
+							</answer>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/schemingSchemer_elizabeth_anthony</video>
+									<path>img/polls/elizabeth.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/schemingSchemer_elizabeth_son</video>
+									<path>img/polls/elizabeth.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="8" number="3" available="true">
+					<displayName><![CDATA[War of the Words]]></displayName>
+					<dataName>warOfTheWords</dataName>
+					<description><![CDATA[From razor-sharp barbs to dexterous dialog, who spoke the line that stood head and shoulders above the rest?]]></description>
+					<answers>
+							<answer>
+								<image>cecily</image>
+								<name><![CDATA[Cecily Neville]]></name>
+								<video>video/polls/warOfTheWords_cecily</video>
+								<path>img/polls/cecily.jpg</path>
+								<id>cecilyNeville</id>
+							</answer>
+							<answer>
+									<image>edward</image>
+									<name><![CDATA[King Edward IV]]></name>
+									<video>video/polls/warOfTheWords_edward</video>
+									<path>img/polls/edward.jpg</path>
+									<id>kingEdwardIV</id>
+							</answer>
+							<answer>
+									<image>lizzy</image>
+									<name><![CDATA[Elizabeth of York]]></name>
+									<video>video/polls/warOfTheWords_lizzy</video>
+									<path>img/polls/lizzy.jpg</path>
+									<id>elizabethYork</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="8" number="4" available="true">
+					<displayName><![CDATA[Shock and Awe]]></displayName>
+					<dataName>shockAndAwe</dataName>
+					<description><![CDATA[It was a scene that took your breath away, or had you screaming at the TV set. But which one left a lasting impression?]]></description>
+					<answers>
+							<answer>
+									<image>anthony</image>
+									<name><![CDATA[Anthony Rivers]]></name>
+									<video>video/polls/shockAndAwe_anthony</video>
+									<path>img/polls/anthony.jpg</path>
+									<id>anthonyRivers</id>
+							</answer>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/shockAndAwe_elizabeth</video>
+									<path>img/polls/elizabeth.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+							<answer>
+									<image>richard</image>
+									<name><![CDATA[Richard]]></name>
+									<video>video/polls/shockAndAwe_richard</video>
+									<path>img/polls/richard.jpg</path>
+									<id>RichardDukeofGloucester</id>
+							</answer>
+					</answers>
+				</poll>
+	
+				<poll episode="8" number="5" available="true">
+					<displayName><![CDATA[Scene Stealer]]></displayName>
+					<dataName>sceneStealer</dataName>
+					<description><![CDATA[For you, it was the crowning moment of the episode. In fact, if it were any better, you'd have given it a standing ovation.]]></description>
+					<answers>
+							<answer>
+									<image>edward</image>
+									<name><![CDATA[King Edward IV]]></name>
+									<video>video/polls/sceneStealer_edward</video>
+									<path>img/polls/edward.jpg</path>
+									<id>kingEdwardIV</id>
+							</answer>
+							<answer>
+									<image>margaret</image>
+									<name><![CDATA[Margaret Beaufort]]></name>
+									<video>video/polls/sceneStealer_margaret</video>
+									<path>img/polls/margaret.jpg</path>
+									<id>margaretBeaufort</id>
+							</answer>
+							<answer>
+									<image>richard</image>
+									<name><![CDATA[Richard]]></name>
+									<video>video/polls/sceneStealer_richard</video>
+									<path>img/polls/richard.jpg</path>
+									<id>RichardDukeofGloucester</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="8" number="6" available="false">
+					<displayName><![CDATA[If Looks Could Kill]]></displayName>
+					<dataName>ifLooksCouldKill</dataName>
+					<description><![CDATA[That look. The one that burned deep into someone's soul, or sent daggers flying across the room. Who had this episode's blackest scowl?]]></description>
+					<answers>
+							<answer>
+									<image>edward</image>
+									<name><![CDATA[King Edward IV]]></name>
+									<video>video/polls/ifLooksCouldKill_edward</video>
+									<path>img/polls/edward.jpg</path>
+									<id>kingEdwardIV</id>
+							</answer>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/ifLooksCouldKill_elizabeth</video>
+									<path>img/polls/elizabeth.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+							<answer>
+									<image>george</image>
+									<name><![CDATA[George]]></name>
+									<video>video/polls/ifLooksCouldKill_george</video>
+									<path>img/polls/george.jpg</path>
+									<id>georgeDukeOfClarence</id>
+							</answer>
+					</answers>
+				</poll>			
+		</polls>
+	</episode>
+	<episode id="9">
+			<polls>
+				<poll episode="9" number="1" available="false">
+					<displayName><![CDATA[Power Player]]></displayName>
+					<dataName>powerPlayer</dataName>
+					<description><![CDATA[This accolade goes to the character that came out on top this week. Who stood out? Who's holding all the cards?]]></description>
+					<answers>
+							<answer>
+									<image>anne</image>
+									<name><![CDATA[Anne Neville]]></name>
+									<video>video/polls/powerPlayer_anne</video>
+									<path>img/polls/anne.jpg</path>
+									<id>anneNeville</id>
+							</answer>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/powerPlayer_elizabeth</video>
+									<path>img/polls/elizabeth.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="9" number="2" available="true">
+					<displayName><![CDATA[Scheming Schemer]]></displayName>
+					<dataName>schemingSchemer</dataName>
+					<description><![CDATA[They're pulling all the strings. They're setting all the traps. Who was this weeks most manipulative character?]]></description>
+					<answers>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/schemingSchemer_elizabeth</video>
+									<path>img/polls/elizabeth.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+							<answer>
+									<image>margaret</image>
+									<name><![CDATA[Margaret Beaufort]]></name>
+									<video>video/polls/schemingSchemer_margaret</video>
+									<path>img/polls/margaret.jpg</path>
+									<id>margaretBeaufort</id>
+							</answer>
+							<answer>
+									<image>stanley</image>
+									<name><![CDATA[Thomas Stanley]]></name>
+									<video>video/polls/schemingSchemer_stanley</video>
+									<path>img/polls/stanley.jpg</path>
+									<id>thomasStanley</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="9" number="3" available="true">
+					<displayName><![CDATA[War of the Words]]></displayName>
+					<dataName>warOfTheWords</dataName>
+					<description><![CDATA[From razor-sharp barbs to dexterous dialog, who spoke the line that stood head and shoulders above the rest?]]></description>
+					<answers>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/warOfTheWords_elizabeth</video>
+									<path>img/polls/elizabeth.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+							<answer>
+									<image>lizzy</image>
+									<name><![CDATA[Elizabeth of York]]></name>
+									<video>video/polls/warOfTheWords_lizzy</video>
+									<path>img/polls/lizzy.jpg</path>
+									<id>elizabethYork</id>
+							</answer>
+							<answer>
+									<image>richard</image>
+									<name><![CDATA[Richard]]></name>
+									<video>video/polls/warOfTheWords_richard</video>
+									<path>img/polls/richard.jpg</path>
+									<id>RichardDukeofGloucester</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="9" number="4" available="true">
+					<displayName><![CDATA[Shock and Awe]]></displayName>
+					<dataName>shockAndAwe</dataName>
+					<description><![CDATA[It was a scene that took your breath away, or had you screaming at the TV set. But which one left a lasting impression?]]></description>
+					<answers>
+							<answer>
+									<image>anne</image>
+									<name><![CDATA[Anne Neville]]></name>
+									<video>video/polls/shockAndAwe_anne</video>
+									<path>img/polls/anne.jpg</path>
+									<id>anneNeville</id>
+							</answer>
+							<answer>
+									<image>lizzy</image>
+									<name><![CDATA[Elizabeth of York]]></name>
+									<video>video/polls/shockAndAwe_lizzy</video>
+									<path>img/polls/lizzy.jpg</path>
+									<id>elizabethYork</id>
+							</answer>
+							<answer>
+									<image>margaret</image>
+									<name><![CDATA[Margaret Beaufort]]></name>
+									<video>video/polls/shockAndAwe_margaret</video>
+									<path>img/polls/margaret.jpg</path>
+									<id>margaretBeaufort</id>
+							</answer>
+							<answer>
+									<image>stanley</image>
+									<name><![CDATA[Thomas Stanley]]></name>
+									<video>video/polls/shockAndAwe_stanley</video>
+									<path>img/polls/stanley.jpg</path>
+									<id>thomasStanley</id>
+							</answer>
+					</answers>
+				</poll>
+	
+				<poll episode="9" number="5" available="true">
+					<displayName><![CDATA[Scene Stealer]]></displayName>
+					<dataName>sceneStealer</dataName>
+					<description><![CDATA[For you, it was the crowning moment of the episode. In fact, if it were any better, you'd have given it a standing ovation.]]></description>
+					<answers>
+							<answer>
+									<image>anne</image>
+									<name><![CDATA[Anne Neville]]></name>
+									<video>video/polls/sceneStealer_anne</video>
+									<path>img/polls/anne.jpg</path>
+									<id>anneNeville</id>
+							</answer>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/sceneStealer_elizabeth</video>
+									<path>img/polls/elizabeth.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+							<answer>
+									<image>richard</image>
+									<name><![CDATA[Richard]]></name>
+									<video>video/polls/sceneStealer_richard</video>
+									<path>img/polls/richard.jpg</path>
+									<id>RichardDukeofGloucester</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="9" number="6" available="false">
+					<displayName><![CDATA[If Looks Could Kill]]></displayName>
+					<dataName>ifLooksCouldKill</dataName>
+					<description><![CDATA[That look. The one that burned deep into someone's soul, or sent daggers flying across the room. Who had this episode's blackest scowl?]]></description>
+					<answers>
+							<answer>
+									<image>edward</image>
+									<name><![CDATA[King Edward IV]]></name>
+									<video>video/polls/ifLooksCouldKill_edward</video>
+									<path>img/polls/edward.jpg</path>
+									<id>kingEdwardIV</id>
+							</answer>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/ifLooksCouldKill_elizabeth</video>
+									<path>img/polls/elizabeth.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+							<answer>
+									<image>george</image>
+									<name><![CDATA[George]]></name>
+									<video>video/polls/ifLooksCouldKill_george</video>
+									<path>img/polls/george.jpg</path>
+									<id>georgeDukeOfClarence</id>
+							</answer>
+					</answers>
+				</poll>			
+		</polls>
+	</episode>
+	<episode id="10">
+			<polls>
+				<poll episode="10" number="1" available="true">
+					<displayName><![CDATA[Power Player]]></displayName>
+					<dataName>powerPlayer</dataName>
+					<description><![CDATA[This accolade goes to the character that came out on top this week. Who stood out? Who's holding all the cards?]]></description>
+					<answers>
+							<answer>
+									<image>anne</image>
+									<name><![CDATA[Anne Neville]]></name>
+									<video>video/polls/powerPlayer_anne</video>
+									<path>img/polls/anne.jpg</path>
+									<id>anneNeville</id>
+							</answer>
+							<answer>
+									<image>lizzy</image>
+									<name><![CDATA[Elizabeth of York]]></name>
+									<video>video/polls/powerPlayer_lizzy</video>
+									<path>img/polls/lizzy.jpg</path>
+									<id>elizabethYork</id>
+							</answer>
+							<answer>
+									<image>richard</image>
+									<name><![CDATA[Richard]]></name>
+									<video>video/polls/powerPlayer_richard</video>
+									<path>img/polls/richard.jpg</path>
+									<id>RichardDukeofGloucester</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="10" number="2" available="false">
+					<displayName><![CDATA[Scheming Schemer]]></displayName>
+					<dataName>schemingSchemer</dataName>
+					<description><![CDATA[They're pulling all the strings. They're setting all the traps. Who was this weeks most manipulative character?]]></description>
+					<answers>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/schemingSchemer_elizabeth</video>
+									<path>img/polls/elizabeth.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+							<answer>
+									<image>margaret</image>
+									<name><![CDATA[Margaret Beaufort]]></name>
+									<video>video/polls/schemingSchemer_margaret</video>
+									<path>img/polls/margaret.jpg</path>
+									<id>margaretBeaufort</id>
+							</answer>
+							<answer>
+									<image>stanley</image>
+									<name><![CDATA[Thomas Stanley]]></name>
+									<video>video/polls/schemingSchemer_stanley</video>
+									<path>img/polls/stanley.jpg</path>
+									<id>thomasStanley</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="10" number="3" available="true">
+					<displayName><![CDATA[War of the Words]]></displayName>
+					<dataName>warOfTheWords</dataName>
+					<description><![CDATA[From razor-sharp barbs to dexterous dialog, who spoke the line that stood head and shoulders above the rest?]]></description>
+					<answers>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/warOfTheWords_elizabeth</video>
+									<path>img/polls/elizabeth.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+							<answer>
+									<image>jasper</image>
+									<name><![CDATA[Jasper Tudor]]></name>
+									<video>video/polls/warOfTheWords_jasper</video>
+									<path>img/polls/jasper.jpg</path>
+									<id>jasperTudor</id>
+							</answer>
+							<answer>
+									<image>margaret</image>
+									<name><![CDATA[Margaret Beaufort]]></name>
+									<video>video/polls/warOfTheWords_margaret</video>
+									<path>img/polls/margaret.jpg</path>
+									<id>margaretBeaufort</id>
+							</answer>
+							<answer>
+									<image>richard</image>
+									<name><![CDATA[Richard]]></name>
+									<video>video/polls/warOfTheWords_richard</video>
+									<path>img/polls/richard.jpg</path>
+									<id>RichardDukeofGloucester</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="10" number="4" available="true">
+					<displayName><![CDATA[Shock and Awe]]></displayName>
+					<dataName>shockAndAwe</dataName>
+					<description><![CDATA[It was a scene that took your breath away, or had you screaming at the TV set. But which one left a lasting impression?]]></description>
+					<answers>
+							<answer>
+									<image>anne</image>
+									<name><![CDATA[Anne Neville]]></name>
+									<video>video/polls/shockAndAwe_anne</video>
+									<path>img/polls/anne.jpg</path>
+									<id>anneNeville</id>
+							</answer>
+							<answer>
+									<image>edMiddleham</image>
+									<name><![CDATA[King Edward IV]]></name>
+									<video>video/polls/shockAndAwe_edward</video>
+									<path>img/polls/edMiddleham.jpg</path>
+									<id>edwardOfMiddleham</id>
+							</answer>
+							<answer>
+									<image>richard</image>
+									<name><![CDATA[Richard]]></name>
+									<video>video/polls/shockAndAwe_stanley</video>
+									<path>img/polls/richard.jpg</path>
+									<id>RichardDukeofGloucester</id>
+							</answer>
+							<answer>
+									<image>stanley</image>
+									<name><![CDATA[Thomas Stanley]]></name>
+									<video>video/polls/shockAndAwe_stanley2</video>
+									<path>img/polls/stanley.jpg</path>
+									<id>thomasStanley</id>
+							</answer>
+					</answers>
+				</poll>
+	
+				<poll episode="10" number="5" available="true">
+					<displayName><![CDATA[Scene Stealer]]></displayName>
+					<dataName>sceneStealer</dataName>
+					<description><![CDATA[For you, it was the crowning moment of the episode. In fact, if it were any better, you'd have given it a standing ovation.]]></description>
+					<answers>
+							<answer>
+									<image>anne</image>
+									<name><![CDATA[Anne Neville]]></name>
+									<video>video/polls/sceneStealer_anne</video>
+									<path>img/polls/anne.jpg</path>
+									<id>anneNeville</id>
+							</answer>
+							<answer>
+									<image>lizzy</image>
+									<name><![CDATA[Elizabeth of York]]></name>
+									<video>video/polls/sceneStealer_lizzy</video>
+									<path>img/polls/lizzy.jpg</path>
+									<id>elizabethYork</id>
+							</answer>
+							<answer>
+									<image>tudor</image>
+									<name><![CDATA[Henry Tudor]]></name>
+									<video>video/polls/sceneStealer_tudor</video>
+									<path>img/polls/tudor.jpg</path>
+									<id>henryTudor</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="10" number="6" available="false">
+					<displayName><![CDATA[If Looks Could Kill]]></displayName>
+					<dataName>ifLooksCouldKill</dataName>
+					<description><![CDATA[That look. The one that burned deep into someone's soul, or sent daggers flying across the room. Who had this episode's blackest scowl?]]></description>
+					<answers>
+							<answer>
+									<image>edward</image>
+									<name><![CDATA[King Edward IV]]></name>
+									<video>video/polls/ifLooksCouldKill_edward</video>
+									<path>img/polls/edward.jpg</path>
+									<id>kingEdwardIV</id>
+							</answer>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/ifLooksCouldKill_elizabeth</video>
+									<path>img/polls/elizabeth.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+							<answer>
+									<image>george</image>
+									<name><![CDATA[George]]></name>
+									<video>video/polls/ifLooksCouldKill_george</video>
+									<path>img/polls/george.jpg</path>
+									<id>georgeDukeOfClarence</id>
+							</answer>
+					</answers>
+				</poll>			
+		</polls>
+	</episode>
+	<episode id="11">
+			<polls>
+				<poll episode="10" number="1" available="false">
+					<displayName><![CDATA[Power Player]]></displayName>
+					<dataName>powerPlayer</dataName>
+					<description><![CDATA[This accolade goes to the character that came out on top this week. Who stood out? Who's holding all the cards?]]></description>
+					<answers>
+							<answer>
+									<image>anne</image>
+									<name><![CDATA[Anne Neville]]></name>
+									<video>video/polls/powerPlayer_anne</video>
+									<path>img/polls/anne.jpg</path>
+									<id>anneNeville</id>
+							</answer>
+							<answer>
+									<image>lizzy</image>
+									<name><![CDATA[Elizabeth of York]]></name>
+									<video>video/polls/powerPlayer_lizzy</video>
+									<path>img/polls/lizzy.jpg</path>
+									<id>elizabethYork</id>
+							</answer>
+							<answer>
+									<image>richard</image>
+									<name><![CDATA[Richard]]></name>
+									<video>video/polls/powerPlayer_richard</video>
+									<path>img/polls/richard.jpg</path>
+									<id>RichardDukeofGloucester</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="10" number="2" available="false">
+					<displayName><![CDATA[Scheming Schemer]]></displayName>
+					<dataName>schemingSchemer</dataName>
+					<description><![CDATA[They're pulling all the strings. They're setting all the traps. Who was this weeks most manipulative character?]]></description>
+					<answers>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/schemingSchemer_elizabeth</video>
+									<path>img/polls/elizabeth.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+							<answer>
+									<image>margaret</image>
+									<name><![CDATA[Margaret Beaufort]]></name>
+									<video>video/polls/schemingSchemer_margaret</video>
+									<path>img/polls/margaret.jpg</path>
+									<id>margaretBeaufort</id>
+							</answer>
+							<answer>
+									<image>stanley</image>
+									<name><![CDATA[Thomas Stanley]]></name>
+									<video>video/polls/schemingSchemer_stanley</video>
+									<path>img/polls/stanley.jpg</path>
+									<id>thomasStanley</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="10" number="3" available="false">
+					<displayName><![CDATA[War of the Words]]></displayName>
+					<dataName>warOfTheWords</dataName>
+					<description><![CDATA[From razor-sharp barbs to dexterous dialog, who spoke the line that stood head and shoulders above the rest?]]></description>
+					<answers>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/warOfTheWords_elizabeth</video>
+									<path>img/polls/elizabeth.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+							<answer>
+									<image>jasper</image>
+									<name><![CDATA[Jasper Tudor]]></name>
+									<video>video/polls/warOfTheWords_jasper</video>
+									<path>img/polls/jasper.jpg</path>
+									<id>jasperTudor</id>
+							</answer>
+							<answer>
+									<image>margaret</image>
+									<name><![CDATA[Margaret Beaufort]]></name>
+									<video>video/polls/warOfTheWords_margaret</video>
+									<path>img/polls/margaret.jpg</path>
+									<id>margaretBeaufort</id>
+							</answer>
+							<answer>
+									<image>richard</image>
+									<name><![CDATA[Richard]]></name>
+									<video>video/polls/warOfTheWords_richard</video>
+									<path>img/polls/richard.jpg</path>
+									<id>RichardDukeofGloucester</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="10" number="4" available="false">
+					<displayName><![CDATA[Shock and Awe]]></displayName>
+					<dataName>shockAndAwe</dataName>
+					<description><![CDATA[It was a scene that took your breath away, or had you screaming at the TV set. But which one left a lasting impression?]]></description>
+					<answers>
+							<answer>
+									<image>anne</image>
+									<name><![CDATA[Anne Neville]]></name>
+									<video>video/polls/shockAndAwe_anne</video>
+									<path>img/polls/anne.jpg</path>
+									<id>anneNeville</id>
+							</answer>
+							<answer>
+									<image>edMiddleham</image>
+									<name><![CDATA[King Edward IV]]></name>
+									<video>video/polls/shockAndAwe_edward</video>
+									<path>img/polls/edMiddleham.jpg</path>
+									<id>edwardOfMiddleham</id>
+							</answer>
+							<answer>
+									<image>richard</image>
+									<name><![CDATA[Richard]]></name>
+									<video>video/polls/shockAndAwe_stanley</video>
+									<path>img/polls/richard.jpg</path>
+									<id>RichardDukeofGloucester</id>
+							</answer>
+							<answer>
+									<image>stanley</image>
+									<name><![CDATA[Thomas Stanley]]></name>
+									<video>video/polls/shockAndAwe_stanley2</video>
+									<path>img/polls/stanley.jpg</path>
+									<id>thomasStanley</id>
+							</answer>
+					</answers>
+				</poll>
+	
+				<poll episode="10" number="5" available="false">
+					<displayName><![CDATA[Scene Stealer]]></displayName>
+					<dataName>sceneStealer</dataName>
+					<description><![CDATA[For you, it was the crowning moment of the episode. In fact, if it were any better, you'd have given it a standing ovation.]]></description>
+					<answers>
+							<answer>
+									<image>anne</image>
+									<name><![CDATA[Anne Neville]]></name>
+									<video>video/polls/sceneStealer_anne</video>
+									<path>img/polls/anne.jpg</path>
+									<id>anneNeville</id>
+							</answer>
+							<answer>
+									<image>lizzy</image>
+									<name><![CDATA[Elizabeth of York]]></name>
+									<video>video/polls/sceneStealer_lizzy</video>
+									<path>img/polls/lizzy.jpg</path>
+									<id>elizabethYork</id>
+							</answer>
+							<answer>
+									<image>tudor</image>
+									<name><![CDATA[Henry Tudor]]></name>
+									<video>video/polls/sceneStealer_tudor</video>
+									<path>img/polls/tudor.jpg</path>
+									<id>henryTudor</id>
+							</answer>
+					</answers>
+				</poll>
+				
+				<poll episode="10" number="6" available="false">
+					<displayName><![CDATA[If Looks Could Kill]]></displayName>
+					<dataName>ifLooksCouldKill</dataName>
+					<description><![CDATA[That look. The one that burned deep into someone's soul, or sent daggers flying across the room. Who had this episode's blackest scowl?]]></description>
+					<answers>
+							<answer>
+									<image>edward</image>
+									<name><![CDATA[King Edward IV]]></name>
+									<video>video/polls/ifLooksCouldKill_edward</video>
+									<path>img/polls/edward.jpg</path>
+									<id>kingEdwardIV</id>
+							</answer>
+							<answer>
+									<image>elizabeth</image>
+									<name><![CDATA[Elizabeth Woodville]]></name>
+									<video>video/polls/ifLooksCouldKill_elizabeth</video>
+									<path>img/polls/elizabeth.jpg</path>
+									<id>elizabethWoodville</id>
+							</answer>
+							<answer>
+									<image>george</image>
+									<name><![CDATA[George]]></name>
+									<video>video/polls/ifLooksCouldKill_george</video>
+									<path>img/polls/george.jpg</path>
+									<id>georgeDukeOfClarence</id>
+							</answer>
+					</answers>
+				</poll>			
+		</polls>
+	</episode>
+</data>
